@@ -1,0 +1,2644 @@
+timestamp,tracking_id,user_id,industry,TYPE,GOAL,LANGUAGE,LABEL,vision_json,F1,F2,F3,F4,F5,F6,F7,F8,F9,F10,F11,F12,F13,F14,F15,F16,F17,F18,F19,F20,F21,F22,F23,F24,F25,F26,F27,F28,Score Brut Z
+2025-11-20T20:51:19.011Z,track_1763671879011,current-user,beauty,static,conversion,en,positive,"{
+  ""layout"": {
+    ""primary_focus"": ""product"",
+    ""framing"": ""close-up"",
+    ""composition_type"": ""right-weighted"",
+    ""product_visibility"": ""high"",
+    ""product_size_ratio"": 0.6
+  },
+  ""visual_elements"": {
+    ""has_product"": true,
+    ""has_human"": false,
+    ""human_count"": 0,
+    ""human_gender_approx"": ""none"",
+    ""face_visible"": false,
+    ""eye_contact"": false,
+    ""props_present"": [],
+    ""background_type"": ""studio"",
+    ""background_clarity"": ""clean""
+  },
+  ""text_elements"": {
+    ""has_text"": true,
+    ""text_blocks"": 5,
+    ""text_density"": ""medium"",
+    ""main_headline_present"": true,
+    ""cta_present"": false,
+    ""visible_words"": [
+      ""SUBSCRIBE + SAVE 15%"",
+      ""89% SEE FIRMER, LESS SAGGY SKIN"",
+      ""ENJOY 2 EXCLUSIVE GIFTS"",
+      ""MULTI PEPTIDES & GF ADVANCED LIFTING SERUM"",
+      ""USE DAILY (AM/PM)"",
+      ""9% Lifting Peptide Complex"",
+      ""3% 5-0ligopeptide-1 (GF) Complex"",
+      ""MSM & Copper Lysinate"",
+      ""ALLIES OF SKIN"",
+      ""VOGUE RECOMMENDED""
+    ]
+  },
+  ""style"": {
+    ""creative_style"": ""product_photo"",
+    ""ugc_signals"": false,
+    ""studio_signals"": true,
+    ""color_palette"": [""blue"", ""black"", ""white"", ""silver""],
+    ""dominant_color"": ""blue"",
+    ""contrast_level"": ""high"",
+    ""brightness_level"": ""medium""
+  },
+  ""structural_cues"": {
+    ""hierarchy_clarity"": ""clear"",
+    ""visual_noise_level"": ""low"",
+    ""whitespace_ratio"": 0.2,
+    ""symmetry_level"": ""medium""
+  },
+  ""emotion_tone"": {
+    ""emotion_visible"": ""none"",
+    ""energy_level"": ""low"",
+    ""mood"": ""clinical professional""
+  },
+  ""raw_description"": ""The image features two dark blue skincare serum bottles prominently displayed against a neutral background. The bottles have text detailing the product name and ingredients. There is a bold headline at the top and multiple text blocks including a 'VOGUE RECOMMENDED' badge. The composition is focused on showcasing the product in a clean studio setting.""
+}",1,1,0,0,0.6,2,1,5,1,1,2,0,0.2,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,
+2025-11-20T20:52:38.841Z,track_1763671958841,current-user,beauty,static,awareness,en,positive,"{
+  ""layout"": {
+    ""primary_focus"": ""person"",
+    ""framing"": ""close-up"",
+    ""composition_type"": ""left-weighted"",
+    ""product_visibility"": ""medium"",
+    ""product_size_ratio"": 0.1
+  },
+  ""visual_elements"": {
+    ""has_product"": true,
+    ""has_human"": true,
+    ""human_count"": 1,
+    ""human_gender_approx"": ""female"",
+    ""face_visible"": true,
+    ""eye_contact"": false,
+    ""props_present"": [""jar""],
+    ""background_type"": ""solid"",
+    ""background_clarity"": ""clean""
+  },
+  ""text_elements"": {
+    ""has_text"": true,
+    ""text_blocks"": 4,
+    ""text_density"": ""high"",
+    ""main_headline_present"": true,
+    ""cta_present"": false,
+    ""visible_words"": [
+      ""APOTERRA"",
+      ""WOMEN 40+"",
+      ""THIS IS FOR YOU:"",
+      ""Is your skin feeling dull or losing elasticity?"",
+      ""Restore vitality, plumpness & radiance—naturally."",
+      ""Our Vitamin C Regenerative Balm supports collagen, fades dark spots, and reveals your healthiest skin."",
+      ""Radiant renewal starts with this one powerful balm.""
+    ]
+  },
+  ""style"": {
+    ""creative_style"": ""studio"",
+    ""ugc_signals"": false,
+    ""studio_signals"": true,
+    ""color_palette"": [""beige"", ""brown"", ""orange"", ""white"", ""black""],
+    ""dominant_color"": ""beige"",
+    ""contrast_level"": ""medium"",
+    ""brightness_level"": ""medium""
+  },
+  ""structural_cues"": {
+    ""hierarchy_clarity"": ""clear"",
+    ""visual_noise_level"": ""low"",
+    ""whitespace_ratio"": 0.2,
+    ""symmetry_level"": ""low""
+  },
+  ""emotion_tone"": {
+    ""emotion_visible"": ""neutral"",
+    ""energy_level"": ""low"",
+    ""mood"": ""calm, informative""
+  },
+  ""raw_description"": ""The image features a close-up side profile of a woman with visible text overlaid across the left half of the frame. A small jar of a vibrant orange-colored balm is positioned near the bottom of the image. The background is clean and solid, with a neutral tone. The text provides promotional messaging about a skincare product targeted for women aged 40 and above.""
+}",0,1,0,0,0.1,1,1,4,2,1,2,0,0.2,0,0,0,0,1,0,0,0,1,1,1,0,0,0,0,
+2025-11-20T20:54:06.182Z,track_1763672046182,current-user,beauty,static,awareness,en,positive,"{
+  ""layout"": {
+    ""primary_focus"": ""product"",
+    ""framing"": ""close-up"",
+    ""composition_type"": ""centered"",
+    ""product_visibility"": ""high"",
+    ""product_size_ratio"": 0.25
+  },
+  ""visual_elements"": {
+    ""has_product"": true,
+    ""has_human"": false,
+    ""human_count"": 0,
+    ""human_gender_approx"": ""none"",
+    ""face_visible"": false,
+    ""eye_contact"": false,
+    ""props_present"": [""jar"", ""cream smear""],
+    ""background_type"": ""studio"",
+    ""background_clarity"": ""clean""
+  },
+  ""text_elements"": {
+    ""has_text"": true,
+    ""text_blocks"": 5,
+    ""text_density"": ""medium"",
+    ""main_headline_present"": true,
+    ""cta_present"": false,
+    ""visible_words"": [
+      ""THE POWER OF PRECISION SKINCARE"",
+      ""In Our #1 Bestseller"",
+      ""Helps visibly soften fine lines."",
+      ""Improves the look of skin firmness."",
+      ""Supports a youthful-looking complexion."",
+      ""DOCTOR BABOR"",
+      ""COLLAGEN PEPTIDE"",
+      ""BOOSTER CREAM"",
+      ""BABOR""
+    ]
+  },
+  ""style"": {
+    ""creative_style"": ""product_photo"",
+    ""ugc_signals"": false,
+    ""studio_signals"": true,
+    ""color_palette"": [""white"", ""beige"", ""silver"", ""gray""],
+    ""dominant_color"": ""beige"",
+    ""contrast_level"": ""medium"",
+    ""brightness_level"": ""high""
+  },
+  ""structural_cues"": {
+    ""hierarchy_clarity"": ""clear"",
+    ""visual_noise_level"": ""low"",
+    ""whitespace_ratio"": 0.4,
+    ""symmetry_level"": ""high""
+  },
+  ""emotion_tone"": {
+    ""emotion_visible"": ""none"",
+    ""energy_level"": ""low"",
+    ""mood"": ""calm, elegant""
+  },
+  ""raw_description"": ""The image features a close-up product photo of a skincare jar labeled 'DOCTOR BABOR COLLAGEN PEPTIDE BOOSTER CREAM' placed on a textured cream smear. The product is centered on a clean beige background. Informative text is placed around the product with lines pointing to it, describing its benefits. The brand logo 'BABOR' appears in the bottom right.""
+}",1,1,0,0,0.25,1,2,5,1,1,2,0,0.4,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,
+2025-11-20T20:54:44.377Z,track_1763672084377,current-user,beauty,static,conversion,en,positive,"{
+  ""layout"": {
+    ""primary_focus"": ""product"",
+    ""framing"": ""close-up"",
+    ""composition_type"": ""centered"",
+    ""product_visibility"": ""high"",
+    ""product_size_ratio"": 0.3
+  },
+  ""visual_elements"": {
+    ""has_product"": true,
+    ""has_human"": false,
+    ""human_count"": 0,
+    ""human_gender_approx"": ""none"",
+    ""face_visible"": false,
+    ""eye_contact"": false,
+    ""props_present"": [""sponge"",""spatula"",""platform""],
+    ""background_type"": ""studio"",
+    ""background_clarity"": ""clean""
+  },
+  ""text_elements"": {
+    ""has_text"": true,
+    ""text_blocks"": 5,
+    ""text_density"": ""medium"",
+    ""main_headline_present"": true,
+    ""cta_present"": true,
+    ""visible_words"": [
+      ""CLINICAL RESULTS."",
+      ""SPA EXPERIENCE."",
+      ""CONSCIOUS FORMULAS."",
+      ""15% off your first purchase"",
+      ""Code: WELCOME15"",
+      ""BABOR"",
+      ""HYALURONIC CLEANSING BALM"",
+      ""EXPERT SKINCARE. MADE IN GERMANY.""
+    ]
+  },
+  ""style"": {
+    ""creative_style"": ""product_photo"",
+    ""ugc_signals"": false,
+    ""studio_signals"": true,
+    ""color_palette"": [""beige"",""white"",""black""],
+    ""dominant_color"": ""beige"",
+    ""contrast_level"": ""medium"",
+    ""brightness_level"": ""high""
+  },
+  ""structural_cues"": {
+    ""hierarchy_clarity"": ""clear"",
+    ""visual_noise_level"": ""low"",
+    ""whitespace_ratio"": 0.4,
+    ""symmetry_level"": ""high""
+  },
+  ""emotion_tone"": {
+    ""emotion_visible"": ""none"",
+    ""energy_level"": ""low"",
+    ""mood"": ""calm clean""
+  },
+  ""raw_description"": ""The image displays a jar of BABOR Hyaluronic Cleansing Balm placed on a neutral-toned platform. Nearby props include a textured sponge and spatula. Above the product, bold black text provides promotional messaging and discount code information. The background is clean and beige, with studio lighting and minimal decor.""
+}",1,1,0,0,0.3,1,2,5,1,1,2,0,0.4,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,
+2025-11-20T21:00:05.044Z,track_1763672405044,current-user,beauty,static,awareness,en,positive,"{
+  ""layout"": {
+    ""primary_focus"": ""product"",
+    ""framing"": ""medium"",
+    ""composition_type"": ""centered"",
+    ""product_visibility"": ""high"",
+    ""product_size_ratio"": 0.2
+  },
+  ""visual_elements"": {
+    ""has_product"": true,
+    ""has_human"": false,
+    ""human_count"": 0,
+    ""human_gender_approx"": ""none"",
+    ""face_visible"": false,
+    ""eye_contact"": false,
+    ""props_present"": [],
+    ""background_type"": ""studio"",
+    ""background_clarity"": ""clean""
+  },
+  ""text_elements"": {
+    ""has_text"": true,
+    ""text_blocks"": 6,
+    ""text_density"": ""medium"",
+    ""main_headline_present"": true,
+    ""cta_present"": false,
+    ""visible_words"": [
+      ""INDULGE YOUR SKIN,"",
+      ""ELEVATE YOUR SENSES"",
+      ""95% confirm:"",
+      ""Skin looks healthy and feels nourished and strengthened"",
+      ""96% confirm:"",
+      ""Skin feels well cared for, moisturized, supple"",
+      ""86% confirm:"",
+      ""Skin appears firmer and looks smoother"",
+      ""BABOR"",
+      ""EXPERT SKINCARE MADE IN GERMANY""
+    ]
+  },
+  ""style"": {
+    ""creative_style"": ""product_photo"",
+    ""ugc_signals"": false,
+    ""studio_signals"": true,
+    ""color_palette"": [""beige"", ""black"", ""white""],
+    ""dominant_color"": ""beige"",
+    ""contrast_level"": ""medium"",
+    ""brightness_level"": ""medium""
+  },
+  ""structural_cues"": {
+    ""hierarchy_clarity"": ""clear"",
+    ""visual_noise_level"": ""low"",
+    ""whitespace_ratio"": 0.4,
+    ""symmetry_level"": ""high""
+  },
+  ""emotion_tone"": {
+    ""emotion_visible"": ""none"",
+    ""energy_level"": ""low"",
+    ""mood"": ""calm, luxurious""
+  },
+  ""raw_description"": ""The image features a centered bottle of BABOR skin lotion on a curved beige pedestal with clean studio lighting. The background is minimal and neutral in tone, drawing attention to the product. Informational and promotional text is displayed clearly above and around the bottle. The overall design is sleek and product-focused.""
+}",1,0,1,0,0.2,1,1,6,1,1,2,0,0.4,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,
+2025-11-20T21:01:08.618Z,track_1763672468618,current-user,beauty,static,awareness,en,positive,"{
+  ""layout"": {
+    ""primary_focus"": ""product"",
+    ""framing"": ""medium"",
+    ""composition_type"": ""split-screen"",
+    ""product_visibility"": ""high"",
+    ""product_size_ratio"": 0.3
+  },
+  ""visual_elements"": {
+    ""has_product"": true,
+    ""has_human"": false,
+    ""human_count"": 0,
+    ""human_gender_approx"": ""none"",
+    ""face_visible"": false,
+    ""eye_contact"": false,
+    ""props_present"": [],
+    ""background_type"": ""studio"",
+    ""background_clarity"": ""clean""
+  },
+  ""text_elements"": {
+    ""has_text"": true,
+    ""text_blocks"": 3,
+    ""text_density"": ""medium"",
+    ""main_headline_present"": true,
+    ""cta_present"": false,
+    ""visible_words"": [""INDULGE"", ""YOUR"", ""SKIN"", ""ELEVATE"", ""YOUR"", ""SENSES"", ""SOUL"", ""BODY"", ""WASH"", ""BABOR"", ""EXPERT"", ""SKINCARE"", ""MADE"", ""IN"", ""GERMANY""]
+  },
+  ""style"": {
+    ""creative_style"": ""product_photo"",
+    ""ugc_signals"": false,
+    ""studio_signals"": true,
+    ""color_palette"": [""beige"", ""black"", ""white""],
+    ""dominant_color"": ""beige"",
+    ""contrast_level"": ""medium"",
+    ""brightness_level"": ""high""
+  },
+  ""structural_cues"": {
+    ""hierarchy_clarity"": ""clear"",
+    ""visual_noise_level"": ""low"",
+    ""whitespace_ratio"": 0.3,
+    ""symmetry_level"": ""medium""
+  },
+  ""emotion_tone"": {
+    ""emotion_visible"": ""none"",
+    ""energy_level"": ""low"",
+    ""mood"": ""calm""
+  },
+  ""raw_description"": ""The image is a split-screen layout. The left half features a beige bottle of BABOR Soul & Body Wash on a neutral-toned studio background with a shadow. Text above the bottle reads, 'INDULGE YOUR SKIN, ELEVATE YOUR SENSES'. The right half displays a close-up image of bubbles or foam, with a BABOR logo and tagline at the bottom. No humans or props are present.""
+}",1,0,1,0,0.3,1,2,3,1,1,2,0,0.3,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,
+2025-11-20T21:10:13.822Z,track_1763673013822,current-user,beauty,static,awareness,en,positive,"{
+  ""layout"": {
+    ""primary_focus"": ""product"",
+    ""framing"": ""close-up"",
+    ""composition_type"": ""centered"",
+    ""product_visibility"": ""high"",
+    ""product_size_ratio"": 0.3
+  },
+  ""visual_elements"": {
+    ""has_product"": true,
+    ""has_human"": false,
+    ""human_count"": 0,
+    ""human_gender_approx"": ""none"",
+    ""face_visible"": false,
+    ""eye_contact"": false,
+    ""props_present"": [""cosmetic jar"", ""skincare cream""],
+    ""background_type"": ""studio"",
+    ""background_clarity"": ""clean""
+  },
+  ""text_elements"": {
+    ""has_text"": true,
+    ""text_blocks"": 5,
+    ""text_density"": ""medium"",
+    ""main_headline_present"": true,
+    ""cta_present"": false,
+    ""visible_words"": [
+      ""THE POWER OF PRECISION SKINCARE"",
+      ""In Our #1 Bestseller"",
+      ""Helps visibly soften fine lines."",
+      ""Improves the look of skin firmness."",
+      ""Supports a youthful-looking complexion."",
+      ""BABOR"",
+      ""DOCTOR BABOR"",
+      ""COLLAGEN PEPTIDE"",
+      ""RICH CREAM""
+    ]
+  },
+  ""style"": {
+    ""creative_style"": ""product_photo"",
+    ""ugc_signals"": false,
+    ""studio_signals"": true,
+    ""color_palette"": [""white"", ""beige"", ""grey""],
+    ""dominant_color"": ""beige"",
+    ""contrast_level"": ""medium"",
+    ""brightness_level"": ""high""
+  },
+  ""structural_cues"": {
+    ""hierarchy_clarity"": ""clear"",
+    ""visual_noise_level"": ""low"",
+    ""whitespace_ratio"": 0.4,
+    ""symmetry_level"": ""medium""
+  },
+  ""emotion_tone"": {
+    ""emotion_visible"": ""none"",
+    ""energy_level"": ""low"",
+    ""mood"": ""clean, professional""
+  },
+  ""raw_description"": ""The image shows a close-up product photo of a skincare cream jar placed on a textured surface with visible white product smear. Surrounding the product are descriptive text annotations explaining its benefits. The background is minimal and beige-toned, with studio lighting highlighting the product. Brand name and headline are clearly visible at the top and bottom.""
+}",1,1,0,0,0.3,1,2,5,1,1,2,0,0.4,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,
+2025-11-20T21:13:21.478Z,track_1763673201478,current-user,beauty,static,conversion,en,positive,"{
+  ""layout"": {
+    ""primary_focus"": ""product"",
+    ""framing"": ""medium"",
+    ""composition_type"": ""split-screen"",
+    ""product_visibility"": ""high"",
+    ""product_size_ratio"": 0.6
+  },
+  ""visual_elements"": {
+    ""has_product"": true,
+    ""has_human"": false,
+    ""human_count"": 0,
+    ""human_gender_approx"": ""none"",
+    ""face_visible"": false,
+    ""eye_contact"": false,
+    ""props_present"": [],
+    ""background_type"": ""abstract"",
+    ""background_clarity"": ""medium""
+  },
+  ""text_elements"": {
+    ""has_text"": true,
+    ""text_blocks"": 5,
+    ""text_density"": ""medium"",
+    ""main_headline_present"": true,
+    ""cta_present"": false,
+    ""visible_words"": [
+      ""BABOR"",
+      ""RAGYOGJ EGÉSZ NYÁRON"",
+      ""A BABOR PRÉMIUM AMPULLÁIVAL"",
+      ""ajándék arckrémmel"",
+      ""csak 15.110 Ft-ért"",
+      ""AJÁNDÉK"",
+      ""11.190 Ft"",
+      ""értékű"",
+      ""nyári arckrém érett bőrre"",
+      ""THERMAL SPRAY"",
+      ""DOCTOR BABOR""
+    ]
+  },
+  ""style"": {
+    ""creative_style"": ""product_photo"",
+    ""ugc_signals"": false,
+    ""studio_signals"": true,
+    ""color_palette"": [""white"", ""black"", ""mint green"", ""grey""],
+    ""dominant_color"": ""mint green"",
+    ""contrast_level"": ""medium"",
+    ""brightness_level"": ""high""
+  },
+  ""structural_cues"": {
+    ""hierarchy_clarity"": ""clear"",
+    ""visual_noise_level"": ""low"",
+    ""whitespace_ratio"": 0.3,
+    ""symmetry_level"": ""medium""
+  },
+  ""emotion_tone"": {
+    ""emotion_visible"": ""none"",
+    ""energy_level"": ""low"",
+    ""mood"": ""calm professional""
+  },
+  ""raw_description"": ""The image is split into two main sections. The top half features a box of skincare ampoules from BABOR with a clean product layout and branding. The bottom half showcases two tubes of skincare products on a mint green and black abstract background with a circular black label highlighting a promotional value. Several blocks of product-focused text are included.""
+}",1,0,1,0,0.6,1,2,5,1,1,2,0,0.3,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,
+2025-11-20T21:15:35.045Z,track_1763673335045,current-user,beauty,static,awareness,en,positive,"{
+  ""layout"": {
+    ""primary_focus"": ""product"",
+    ""framing"": ""close-up"",
+    ""composition_type"": ""centered"",
+    ""product_visibility"": ""high"",
+    ""product_size_ratio"": 0.4
+  },
+  ""visual_elements"": {
+    ""has_product"": true,
+    ""has_human"": false,
+    ""human_count"": 0,
+    ""human_gender_approx"": ""none"",
+    ""face_visible"": false,
+    ""eye_contact"": false,
+    ""props_present"": [],
+    ""background_type"": ""solid"",
+    ""background_clarity"": ""clean""
+  },
+  ""text_elements"": {
+    ""has_text"": true,
+    ""text_blocks"": 4,
+    ""text_density"": ""medium"",
+    ""main_headline_present"": true,
+    ""cta_present"": false,
+    ""visible_words"": [
+      ""NUTRI RESTORE"",
+      ""ENTDECKE DIE AMPULLEN INNOVATION VON BABOR"",
+      ""95%"",
+      ""BESTÄTIGEN EINE GESUND AUSSEHENDE HAUT NACH 7 TAGEN"",
+      ""BABOR""
+    ]
+  },
+  ""style"": {
+    ""creative_style"": ""product_photo"",
+    ""ugc_signals"": false,
+    ""studio_signals"": true,
+    ""color_palette"": [""beige"", ""yellow"", ""black""],
+    ""dominant_color"": ""beige"",
+    ""contrast_level"": ""medium"",
+    ""brightness_level"": ""high""
+  },
+  ""structural_cues"": {
+    ""hierarchy_clarity"": ""clear"",
+    ""visual_noise_level"": ""low"",
+    ""whitespace_ratio"": 0.5,
+    ""symmetry_level"": ""high""
+  },
+  ""emotion_tone"": {
+    ""emotion_visible"": ""none"",
+    ""energy_level"": ""low"",
+    ""mood"": ""clean minimal""
+  },
+  ""raw_description"": ""The image features a close-up of a yellow ampoule with fluid at its tip labeled 'NUTRI RESTORE' and 'BABOR'. The product is centrally aligned on a solid beige background. Text appears in black on the right and bottom parts of the image, promoting skincare benefits. No humans or props are visible.""
+}",1,1,0,0,0.4,1,2,4,1,1,2,0,0.5,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,
+2025-11-20T21:17:02.509Z,track_1763673422509,current-user,beauty,static,awareness,en,positive,"{
+  ""layout"": {
+    ""primary_focus"": ""product"",
+    ""framing"": ""close-up"",
+    ""composition_type"": ""right-weighted"",
+    ""product_visibility"": ""high"",
+    ""product_size_ratio"": 0.35
+  },
+  ""visual_elements"": {
+    ""has_product"": true,
+    ""has_human"": true,
+    ""human_count"": 1,
+    ""human_gender_approx"": ""unclear"",
+    ""face_visible"": false,
+    ""eye_contact"": false,
+    ""props_present"": [""bottle""],
+    ""background_type"": ""outdoor"",
+    ""background_clarity"": ""clean""
+  },
+  ""text_elements"": {
+    ""has_text"": true,
+    ""text_blocks"": 4,
+    ""text_density"": ""medium"",
+    ""main_headline_present"": true,
+    ""cta_present"": false,
+    ""visible_words"": [
+      ""DR. BARBARA STURM"",
+      ""SUN DROPS SPF 50"",
+      ""EIN LEICHTES SONNENSERUM MIT LSF 50, DAS VOR UVA-/UVB-STRAHLEN SCHÜTZT"",
+      ""100% STIMMEN ZU* DIE HAUT IST IN DER SONNE OPTIMAL GESCHÜTZT"",
+      ""98% STIMMEN ZU* DIE HAUT WIRD WENIGER DURCH DIE SONNE GEREIZT"",
+      ""MOLECULAR COSMETICS"",
+      ""MADE IN GERMANY""
+    ]
+  },
+  ""style"": {
+    ""creative_style"": ""product_photo"",
+    ""ugc_signals"": false,
+    ""studio_signals"": false,
+    ""color_palette"": [""blue"", ""white"", ""beige"", ""brown""],
+    ""dominant_color"": ""blue"",
+    ""contrast_level"": ""medium"",
+    ""brightness_level"": ""high""
+  },
+  ""structural_cues"": {
+    ""hierarchy_clarity"": ""clear"",
+    ""visual_noise_level"": ""low"",
+    ""whitespace_ratio"": 0.3,
+    ""symmetry_level"": ""medium""
+  },
+  ""emotion_tone"": {
+    ""emotion_visible"": ""none"",
+    ""energy_level"": ""medium"",
+    ""mood"": ""clean and professional""
+  },
+  ""raw_description"": ""The image shows a hand holding a serum bottle labeled 'DR. BARBARA STURM SUN DROPS SPF 50' against a blue sky background. Text describing the product and its benefits appears on the left-hand side. The product is well-lit and prominently displayed, taking up a significant portion of the image. The background is minimal and outdoor-themed, emphasizing the sun-related nature of the product.""
+}",1,1,0,0,0.35,1,2,4,1,1,2,0,0.3,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,
+2025-11-20T21:21:20.931Z,track_1763673680931,current-user,beauty,static,conversion,en,positive,"{
+  ""layout"": {
+    ""primary_focus"": ""product"",
+    ""framing"": ""close-up"",
+    ""composition_type"": ""left-weighted"",
+    ""product_visibility"": ""high"",
+    ""product_size_ratio"": 0.2
+  },
+  ""visual_elements"": {
+    ""has_product"": true,
+    ""has_human"": true,
+    ""human_count"": 1,
+    ""human_gender_approx"": ""unclear"",
+    ""face_visible"": false,
+    ""eye_contact"": false,
+    ""props_present"": [""skincare bottle""],
+    ""background_type"": ""outdoor"",
+    ""background_clarity"": ""clean""
+  },
+  ""text_elements"": {
+    ""has_text"": true,
+    ""text_blocks"": 5,
+    ""text_density"": ""medium"",
+    ""main_headline_present"": true,
+    ""cta_present"": false,
+    ""visible_words"": [
+      ""DR. BARBARA STURM"",
+      ""SUN DROPS"",
+      ""SPF 50"",
+      ""A LIGHTWEIGHT SPF 50 SUN SERUM THAT PROTECTS"",
+      ""AGAINST UVA/UVB RAYS"",
+      ""100% AGREE*"",
+      ""SKIN IS OPTIMALLY PROTECTED IN THE SUN"",
+      ""98% AGREE*"",
+      ""SKIN FEELS LESS IRRITATED BY THE SUN""
+    ]
+  },
+  ""style"": {
+    ""creative_style"": ""product_photo"",
+    ""ugc_signals"": false,
+    ""studio_signals"": false,
+    ""color_palette"": [""blue"", ""beige"", ""white"", ""brown""],
+    ""dominant_color"": ""blue"",
+    ""contrast_level"": ""medium"",
+    ""brightness_level"": ""high""
+  },
+  ""structural_cues"": {
+    ""hierarchy_clarity"": ""clear"",
+    ""visual_noise_level"": ""low"",
+    ""whitespace_ratio"": 0.4,
+    ""symmetry_level"": ""low""
+  },
+  ""emotion_tone"": {
+    ""emotion_visible"": ""none"",
+    ""energy_level"": ""low"",
+    ""mood"": ""clean calm""
+  },
+  ""raw_description"": ""The image shows a hand holding a dropper bottle of DR. BARBARA STURM Sun Drops SPF 50 product against a clear blue sky. The bottle is prominently placed on the right side. On the left side, there is text providing product information and highlighted benefits. The visual style is bright and minimalistic, focusing on the product.""
+}",1,1,0,0,0.2,1,2,5,1,1,2,0,0.4,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,
+2025-11-20T21:25:38.692Z,track_1763673938692,current-user,beauty,static,awareness,en,positive,"{
+  ""layout"": {
+    ""primary_focus"": ""mixed"",
+    ""framing"": ""close-up"",
+    ""composition_type"": ""split-screen"",
+    ""product_visibility"": ""high"",
+    ""product_size_ratio"": 0.3
+  },
+  ""visual_elements"": {
+    ""has_product"": true,
+    ""has_human"": true,
+    ""human_count"": 1,
+    ""human_gender_approx"": ""female"",
+    ""face_visible"": true,
+    ""eye_contact"": false,
+    ""props_present"": [""eye serum applicator""],
+    ""background_type"": ""solid"",
+    ""background_clarity"": ""clean""
+  },
+  ""text_elements"": {
+    ""has_text"": true,
+    ""text_blocks"": 5,
+    ""text_density"": ""medium"",
+    ""main_headline_present"": true,
+    ""cta_present"": false,
+    ""visible_words"": [
+      ""NEW"",
+      ""SQUALANE + 5% NIACINAMIDE BRIGHTENING EYE SERUM"",
+      ""90%"",
+      ""SAW INSTANTLY REDUCED UNDER-EYE PUFFINESS*"",
+      ""*Based on participant questionnaires from a study on 27 women, with twice daily use"",
+      ""BIOSSANCE""
+    ]
+  },
+  ""style"": {
+    ""creative_style"": ""studio"",
+    ""ugc_signals"": false,
+    ""studio_signals"": true,
+    ""color_palette"": [""beige"", ""green"", ""white"", ""brown""],
+    ""dominant_color"": ""beige"",
+    ""contrast_level"": ""medium"",
+    ""brightness_level"": ""high""
+  },
+  ""structural_cues"": {
+    ""hierarchy_clarity"": ""clear"",
+    ""visual_noise_level"": ""low"",
+    ""whitespace_ratio"": 0.2,
+    ""symmetry_level"": ""medium""
+  },
+  ""emotion_tone"": {
+    ""emotion_visible"": ""neutral"",
+    ""energy_level"": ""low"",
+    ""mood"": ""calm focus""
+  },
+  ""raw_description"": ""The image is a split-screen ad featuring a close-up of a woman's face on the left side with eye serum applied beneath her eye. On the right side, there is a product shot of a green tube of serum with a roller applicator. The background is a light solid beige with clean text highlighting ingredients and efficacy statistics.""
+}",0,1,0,0,0.3,1,2,5,1,1,2,0,0.2,0,1,0,0,1,0,0,0,1,1,1,0,0,0,0,
+2025-11-20T21:27:41.857Z,track_1763674061857,current-user,beauty,static,awareness,en,positive,"{
+  ""layout"": {
+    ""primary_focus"": ""person"",
+    ""framing"": ""close-up"",
+    ""composition_type"": ""centered"",
+    ""product_visibility"": ""none"",
+    ""product_size_ratio"": 0.0
+  },
+  ""visual_elements"": {
+    ""has_product"": false,
+    ""has_human"": true,
+    ""human_count"": 1,
+    ""human_gender_approx"": ""female"",
+    ""face_visible"": true,
+    ""eye_contact"": true,
+    ""props_present"": [],
+    ""background_type"": ""studio"",
+    ""background_clarity"": ""clean""
+  },
+  ""text_elements"": {
+    ""has_text"": true,
+    ""text_blocks"": 4,
+    ""text_density"": ""medium"",
+    ""main_headline_present"": true,
+    ""cta_present"": true,
+    ""visible_words"": [
+      ""Try Before You Buy"",
+      ""Visit Bluemercury Waterside at Marina del Rey to perfect your skincare routine"",
+      ""Explore samples from top brands like Sisley-Paris, Augustinus Bader, Dr. Barbara Sturm, and more"",
+      ""Augustinus Bader"",
+      ""Dr. Barbara Sturm"",
+      ""Sisley Paris""
+    ]
+  },
+  ""style"": {
+    ""creative_style"": ""studio"",
+    ""ugc_signals"": false,
+    ""studio_signals"": true,
+    ""color_palette"": [""blue"", ""white"", ""black"", ""brown""],
+    ""dominant_color"": ""blue"",
+    ""contrast_level"": ""high"",
+    ""brightness_level"": ""medium""
+  },
+  ""structural_cues"": {
+    ""hierarchy_clarity"": ""clear"",
+    ""visual_noise_level"": ""low"",
+    ""whitespace_ratio"": 0.3,
+    ""symmetry_level"": ""high""
+  },
+  ""emotion_tone"": {
+    ""emotion_visible"": ""neutral"",
+    ""energy_level"": ""low"",
+    ""mood"": ""serene""
+  },
+  ""raw_description"": ""The image features a close-up portrait of a woman with glowing skin, centered in the frame. She is making direct eye contact and gently touching her face, with a solid blue background. The top portion of the image contains promotional text and brand names, and the composition uses strong lighting and clear studio styling. Logos of skincare brands are displayed at the bottom.""
+}",0,1,0,0,0,2,1,4,1,1,2,0,0.3,1,0,0,1,1,0,0,0,1,1,1,0,0,0,0,
+2025-11-20T21:31:10.412Z,track_1763674270412,current-user,beauty,static,awareness,en,positive,"{
+  ""layout"": {
+    ""primary_focus"": ""person"",
+    ""framing"": ""medium"",
+    ""composition_type"": ""centered"",
+    ""product_visibility"": ""high"",
+    ""product_size_ratio"": 0.15
+  },
+  ""visual_elements"": {
+    ""has_product"": true,
+    ""has_human"": true,
+    ""human_count"": 1,
+    ""human_gender_approx"": ""female"",
+    ""face_visible"": true,
+    ""eye_contact"": false,
+    ""props_present"": [""tube""],
+    ""background_type"": ""solid"",
+    ""background_clarity"": ""clean""
+  },
+  ""text_elements"": {
+    ""has_text"": true,
+    ""text_blocks"": 4,
+    ""text_density"": ""medium"",
+    ""main_headline_present"": true,
+    ""cta_present"": false,
+    ""visible_words"": [
+      ""Your 2-in-1 solution for visible wrinkle reduction in 7 days* & UV protection"",
+      ""NEW ADVANCED DAY ULTIMATE PROTECT MOISTURIZER"",
+      ""Medik8"",
+      ""CLINICALLY PROVEN SKINCARE""
+    ]
+  },
+  ""style"": {
+    ""creative_style"": ""studio"",
+    ""ugc_signals"": false,
+    ""studio_signals"": true,
+    ""color_palette"": [""beige"", ""white"", ""black""],
+    ""dominant_color"": ""beige"",
+    ""contrast_level"": ""medium"",
+    ""brightness_level"": ""high""
+  },
+  ""structural_cues"": {
+    ""hierarchy_clarity"": ""clear"",
+    ""visual_noise_level"": ""low"",
+    ""whitespace_ratio"": 0.3,
+    ""symmetry_level"": ""medium""
+  },
+  ""emotion_tone"": {
+    ""emotion_visible"": ""smiling"",
+    ""energy_level"": ""medium"",
+    ""mood"": ""pleasant, fresh""
+  },
+  ""raw_description"": ""The image features a woman smiling and holding a Medik8 product tube near her face. She has moisturizer applied on her cheek, and the background is a clean beige color. The text is placed above and below the woman's face, highlighting the product's benefits. The composition is centered with studio-style lighting.""
+}",0,0,1,0,0.15,1,2,4,1,1,2,0,0.3,0,0,0,0,1,0,0,0,1,1,1,0,1,0,0,
+2025-11-20T21:41:18.460Z,track_1763674878460_0,current-user,beauty,static,awareness,en,positive,"{
+  ""layout"": {
+    ""primary_focus"": ""product"",
+    ""framing"": ""close-up"",
+    ""composition_type"": ""centered"",
+    ""product_visibility"": ""high"",
+    ""product_size_ratio"": 0.6
+  },
+  ""visual_elements"": {
+    ""has_product"": true,
+    ""has_human"": false,
+    ""human_count"": 0,
+    ""human_gender_approx"": ""none"",
+    ""face_visible"": false,
+    ""eye_contact"": false,
+    ""props_present"": [""water splash""],
+    ""background_type"": ""solid"",
+    ""background_clarity"": ""clean""
+  },
+  ""text_elements"": {
+    ""has_text"": true,
+    ""text_blocks"": 4,
+    ""text_density"": ""medium"",
+    ""main_headline_present"": true,
+    ""cta_present"": false,
+    ""visible_words"": [""MY SKIN JUST GLOWS"", ""MAR BEAR, SEP 2023"", ""CHARLOTTE'S MAGIC WATER CREAM"", ""Review taken from charlottetilbury.com""]
+  },
+  ""style"": {
+    ""creative_style"": ""testimonial"",
+    ""ugc_signals"": false,
+    ""studio_signals"": true,
+    ""color_palette"": [""blue"", ""white"", ""peach""],
+    ""dominant_color"": ""blue"",
+    ""contrast_level"": ""high"",
+    ""brightness_level"": ""high""
+  },
+  ""structural_cues"": {
+    ""hierarchy_clarity"": ""clear"",
+    ""visual_noise_level"": ""low"",
+    ""whitespace_ratio"": 0.2,
+    ""symmetry_level"": ""high""
+  },
+  ""emotion_tone"": {
+    ""emotion_visible"": ""none"",
+    ""energy_level"": ""medium"",
+    ""mood"": ""fresh clean""
+  },
+  ""raw_description"": ""The image shows a close-up view of a facial cream jar, 'Charlotte's Magic Water Cream', placed centrally with water splashing around it. A five-star rating and quote from a review are displayed above the product, and a footnote referencing the review source is shown below. The background is a clean, gradient light blue suggesting freshness and hydration.""
+}",1,1,0,0,0.6,2,2,4,1,1,2,0,0.2,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,
+2025-11-20T21:43:31.554Z,track_1763675011554_0,current-user,beauty,static,awareness,en,positive,"{
+  ""layout"": {
+    ""primary_focus"": ""person"",
+    ""framing"": ""close-up"",
+    ""composition_type"": ""split-screen"",
+    ""product_visibility"": ""none"",
+    ""product_size_ratio"": 0.0
+  },
+  ""visual_elements"": {
+    ""has_product"": false,
+    ""has_human"": true,
+    ""human_count"": 1,
+    ""human_gender_approx"": ""female"",
+    ""face_visible"": true,
+    ""eye_contact"": true,
+    ""props_present"": [],
+    ""background_type"": ""solid"",
+    ""background_clarity"": ""clean""
+  },
+  ""text_elements"": {
+    ""has_text"": true,
+    ""text_blocks"": 4,
+    ""text_density"": ""medium"",
+    ""main_headline_present"": true,
+    ""cta_present"": false,
+    ""visible_words"": [
+      ""CharlotteTilbury"",
+      ""AWARD-WINNING"",
+      ""CHARLOTTE’S MAGIC CREAM"",
+      ""IMMEDIATE SKIN REVIVAL, CLINICALLY PROVEN RESULTS"",
+      ""BEFORE"",
+      ""IMMEDIATELY AFTER""
+    ]
+  },
+  ""style"": {
+    ""creative_style"": ""testimonial"",
+    ""ugc_signals"": false,
+    ""studio_signals"": true,
+    ""color_palette"": [""pink"", ""white"", ""brown"", ""beige""],
+    ""dominant_color"": ""pink"",
+    ""contrast_level"": ""medium"",
+    ""brightness_level"": ""high""
+  },
+  ""structural_cues"": {
+    ""hierarchy_clarity"": ""clear"",
+    ""visual_noise_level"": ""low"",
+    ""whitespace_ratio"": 0.3,
+    ""symmetry_level"": ""high""
+  },
+  ""emotion_tone"": {
+    ""emotion_visible"": ""neutral"",
+    ""energy_level"": ""low"",
+    ""mood"": ""calm""
+  },
+  ""raw_description"": ""The image features a split-screen close-up of a woman's face with 'before' and 'immediately after' comparisons of skin texture. The woman faces forward with clear, direct eye contact and a background in soft pink gradients. The upper portion contains text branding and claims about the skincare product, while the focus remains on the visible difference in the skin between both sides of the woman's face.""
+}",0,1,0,0,0,1,2,4,1,1,2,0,0.3,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,
+2025-11-20T21:43:32.571Z,track_1763675012571_1,current-user,beauty,static,awareness,en,positive,"{
+  ""layout"": {
+    ""primary_focus"": ""product"",
+    ""framing"": ""close-up"",
+    ""composition_type"": ""centered"",
+    ""product_visibility"": ""high"",
+    ""product_size_ratio"": 0.3
+  },
+  ""visual_elements"": {
+    ""has_product"": true,
+    ""has_human"": false,
+    ""human_count"": 0,
+    ""human_gender_approx"": ""none"",
+    ""face_visible"": false,
+    ""eye_contact"": false,
+    ""props_present"": [],
+    ""background_type"": ""abstract"",
+    ""background_clarity"": ""medium""
+  },
+  ""text_elements"": {
+    ""has_text"": true,
+    ""text_blocks"": 6,
+    ""text_density"": ""high"",
+    ""main_headline_present"": true,
+    ""cta_present"": false,
+    ""visible_words"": [
+      ""CHARLOTTE TILBURY’S"",
+      ""BIGGEST EVER CLINICAL TRIALS!"",
+      ""AFTER JUST 6 WEEKS"",
+      ""52% REDUCTION IN THE APPEARANCE OF DARK SPOTS*"",
+      ""53% REDUCTION IN THE APPEARANCE OF POST-BLEMISH MARKS*"",
+      ""3X REDUCTION IN THE APPEARANCE OF DARK CIRCLES*"",
+      ""DARK SPOT CORRECTING"",
+      ""SERUM"",
+      ""BRIGHTENING VITAMIN C"",
+      ""TRANEXAMIC ACID""
+    ]
+  },
+  ""style"": {
+    ""creative_style"": ""product_photo"",
+    ""ugc_signals"": false,
+    ""studio_signals"": true,
+    ""color_palette"": [""pink"", ""white"", ""rose gold"", ""black""],
+    ""dominant_color"": ""pink"",
+    ""contrast_level"": ""medium"",
+    ""brightness_level"": ""high""
+  },
+  ""structural_cues"": {
+    ""hierarchy_clarity"": ""clear"",
+    ""visual_noise_level"": ""medium"",
+    ""whitespace_ratio"": 0.2,
+    ""symmetry_level"": ""medium""
+  },
+  ""emotion_tone"": {
+    ""emotion_visible"": ""none"",
+    ""energy_level"": ""medium"",
+    ""mood"": ""clinical elegance""
+  },
+  ""raw_description"": ""The image features a close-up of a cosmetic serum bottle placed centrally, accompanied by floral graphics in the background. Text blocks dominate the right side of the image with claims about the product's effectiveness in reducing dark spots, post-blemish marks, and dark circles. The layout uses a pink and white color palette, with high brightness and an abstract soft-focus background. The product is clearly visible, and studio-style lighting is used.""
+}",1,1,0,0,0.3,1,2,6,2,1,2,1,0.2,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,
+2025-11-20T21:43:33.803Z,track_1763675013803_2,current-user,beauty,static,awareness,en,positive,"{
+  ""layout"": {
+    ""primary_focus"": ""person"",
+    ""framing"": ""close-up"",
+    ""composition_type"": ""right-weighted"",
+    ""product_visibility"": ""medium"",
+    ""product_size_ratio"": 0.15
+  },
+  ""visual_elements"": {
+    ""has_product"": true,
+    ""has_human"": true,
+    ""human_count"": 1,
+    ""human_gender_approx"": ""female"",
+    ""face_visible"": true,
+    ""eye_contact"": true,
+    ""props_present"": [""jar""],
+    ""background_type"": ""solid"",
+    ""background_clarity"": ""clean""
+  },
+  ""text_elements"": {
+    ""has_text"": true,
+    ""text_blocks"": 3,
+    ""text_density"": ""medium"",
+    ""main_headline_present"": true,
+    ""cta_present"": false,
+    ""visible_words"": [""92%"", ""AGREE FOUNDATION STAYS FLAWLESS ALL DAY*"", ""CHARLOTTE'S MAGIC WATER CREAM""]
+  },
+  ""style"": {
+    ""creative_style"": ""studio"",
+    ""ugc_signals"": false,
+    ""studio_signals"": true,
+    ""color_palette"": [""blue"", ""beige"", ""white""],
+    ""dominant_color"": ""blue"",
+    ""contrast_level"": ""medium"",
+    ""brightness_level"": ""high""
+  },
+  ""structural_cues"": {
+    ""hierarchy_clarity"": ""clear"",
+    ""visual_noise_level"": ""low"",
+    ""whitespace_ratio"": 0.25,
+    ""symmetry_level"": ""medium""
+  },
+  ""emotion_tone"": {
+    ""emotion_visible"": ""neutral"",
+    ""energy_level"": ""low"",
+    ""mood"": ""calm""
+  },
+  ""raw_description"": ""The image features a close-up of a female model resting her head on her hands with eye contact directed at the viewer. A skincare or cosmetic product jar is placed in the bottom right corner. Bold blue text stating a product claim appears in the upper right. The background is a clean, solid light blue tone.""
+}",0,1,0,0,0.15,1,2,3,1,1,2,0,0.25,0,1,0,0,1,0,0,0,1,1,1,0,0,0,0,
+2025-11-20T21:43:34.517Z,track_1763675014517_3,current-user,beauty,static,awareness,en,positive,"{
+  ""layout"": {
+    ""primary_focus"": ""product"",
+    ""framing"": ""close-up"",
+    ""composition_type"": ""centered"",
+    ""product_visibility"": ""high"",
+    ""product_size_ratio"": 0.5
+  },
+  ""visual_elements"": {
+    ""has_product"": true,
+    ""has_human"": false,
+    ""human_count"": 0,
+    ""human_gender_approx"": ""none"",
+    ""face_visible"": false,
+    ""eye_contact"": false,
+    ""props_present"": [],
+    ""background_type"": ""solid"",
+    ""background_clarity"": ""clean""
+  },
+  ""text_elements"": {
+    ""has_text"": true,
+    ""text_blocks"": 3,
+    ""text_density"": ""medium"",
+    ""main_headline_present"": true,
+    ""cta_present"": false,
+    ""visible_words"": [
+      ""THE SECRET TO IMMEDIATE"",
+      ""SKIN REVIVAL ON-THE-GO!"",
+      ""AWARD WINNING"",
+      ""CharlotteTilbury"",
+      ""MINI CHARLOTTE’S MAGIC CREAM""
+    ]
+  },
+  ""style"": {
+    ""creative_style"": ""product_photo"",
+    ""ugc_signals"": false,
+    ""studio_signals"": true,
+    ""color_palette"": [""peach"", ""gold"", ""white"", ""black""],
+    ""dominant_color"": ""peach"",
+    ""contrast_level"": ""medium"",
+    ""brightness_level"": ""high""
+  },
+  ""structural_cues"": {
+    ""hierarchy_clarity"": ""clear"",
+    ""visual_noise_level"": ""low"",
+    ""whitespace_ratio"": 0.3,
+    ""symmetry_level"": ""high""
+  },
+  ""emotion_tone"": {
+    ""emotion_visible"": ""none"",
+    ""energy_level"": ""low"",
+    ""mood"": ""luxurious""
+  },
+  ""raw_description"": ""The image features a centered close-up of a jar labeled 'CharlotteTilbury' with a gold lid, set against a solid peach background. Above and below the product, there are text elements including a headline and product name. An 'AWARD WINNING' badge is present to the left of the product. There are no people or other objects in the image.""
+}",1,1,0,0,0.5,1,2,3,1,1,2,0,0.3,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,
+2025-11-20T21:43:35.254Z,track_1763675015254_4,current-user,beauty,static,awareness,en,positive,"{
+  ""layout"": {
+    ""primary_focus"": ""product"",
+    ""framing"": ""close-up"",
+    ""composition_type"": ""centered"",
+    ""product_visibility"": ""high"",
+    ""product_size_ratio"": 0.5
+  },
+  ""visual_elements"": {
+    ""has_product"": true,
+    ""has_human"": false,
+    ""human_count"": 0,
+    ""human_gender_approx"": ""none"",
+    ""face_visible"": false,
+    ""eye_contact"": false,
+    ""props_present"": [""tube"", ""product smear""],
+    ""background_type"": ""solid"",
+    ""background_clarity"": ""clean""
+  },
+  ""text_elements"": {
+    ""has_text"": true,
+    ""text_blocks"": 2,
+    ""text_density"": ""medium"",
+    ""main_headline_present"": true,
+    ""cta_present"": false,
+    ""visible_words"": [
+      ""SPF 50 PA++++"",
+      ""INVISIBLE UV FLAWLESS PORELESS PRIMER"",
+      ""FLAWLESS, PORELESS-LOOKING SKIN + DAILY DEFENCE"",
+      ""NEW! XL 60ML SIZE"",
+      ""SPF 50 PA++++ SHIELD""
+    ]
+  },
+  ""style"": {
+    ""creative_style"": ""product_photo"",
+    ""ugc_signals"": false,
+    ""studio_signals"": true,
+    ""color_palette"": [""white"", ""pink"", ""beige"", ""black"", ""red""],
+    ""dominant_color"": ""pink"",
+    ""contrast_level"": ""medium"",
+    ""brightness_level"": ""high""
+  },
+  ""structural_cues"": {
+    ""hierarchy_clarity"": ""clear"",
+    ""visual_noise_level"": ""low"",
+    ""whitespace_ratio"": 0.3,
+    ""symmetry_level"": ""high""
+  },
+  ""emotion_tone"": {
+    ""emotion_visible"": ""none"",
+    ""energy_level"": ""low"",
+    ""mood"": ""clean minimal""
+  },
+  ""raw_description"": ""The image features a tube of cosmetic primer placed vertically in the center on a pink background, with a smear of the product beneath it. Text is placed to the left side of the product describing its features and size. The background is a solid and clean pink tone, and the overall composition is minimal and studio-shot.""
+}",1,1,0,0,0.5,1,2,2,1,1,2,0,0.3,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,
+2025-11-21T20:48:20.054Z,track_1763758100054_0,current-user,beauty,static,conversion,en,positive,"{
+  ""layout"": {
+    ""primary_focus"": ""product"",
+    ""framing"": ""close-up"",
+    ""composition_type"": ""centered"",
+    ""product_visibility"": ""high"",
+    ""product_size_ratio"": 0.5
+  },
+  ""visual_elements"": {
+    ""has_product"": true,
+    ""has_human"": false,
+    ""human_count"": 0,
+    ""human_gender_approx"": ""none"",
+    ""face_visible"": false,
+    ""eye_contact"": false,
+    ""props_present"": [],
+    ""background_type"": ""solid"",
+    ""background_clarity"": ""clean""
+  },
+  ""text_elements"": {
+    ""has_text"": true,
+    ""text_blocks"": 5,
+    ""text_density"": ""medium"",
+    ""main_headline_present"": true,
+    ""cta_present"": false,
+    ""visible_words"": [
+      ""NEW!"",
+      ""XL"",
+      ""60ML SIZE"",
+      ""€79"",
+      ""30ML"",
+      ""€49"",
+      ""SPF 50 PA++++"",
+      ""INVISIBLE UV"",
+      ""FLAWLESS"",
+      ""PORELESS"",
+      ""PRIMER"",
+      ""SHIELD""
+    ]
+  },
+  ""style"": {
+    ""creative_style"": ""product_photo"",
+    ""ugc_signals"": false,
+    ""studio_signals"": true,
+    ""color_palette"": [""pink"", ""white"", ""black""],
+    ""dominant_color"": ""pink"",
+    ""contrast_level"": ""medium"",
+    ""brightness_level"": ""high""
+  },
+  ""structural_cues"": {
+    ""hierarchy_clarity"": ""clear"",
+    ""visual_noise_level"": ""low"",
+    ""whitespace_ratio"": 0.3,
+    ""symmetry_level"": ""medium""
+  },
+  ""emotion_tone"": {
+    ""emotion_visible"": ""none"",
+    ""energy_level"": ""low"",
+    ""mood"": ""clean minimal""
+  },
+  ""raw_description"": ""The image features two cosmetic tubes labeled as 'Invisible UV Flawless Poreless Primer' against a solid pink background. Product sizes and prices are mentioned alongside: 60ml for €79 and 30ml for €49. The layout is centered with high product visibility and clean studio lighting.""
+}",1,1,0,0,0.5,1,2,5,1,1,2,0,0.3,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,
+2025-11-21T23:51:15.561Z,track_1763769075561_2,current-user,Undewear,static,awareness,en,positive,"{
+  ""layout"": {
+    ""primary_focus"": ""product"",
+    ""framing"": ""close-up"",
+    ""composition_type"": ""centered"",
+    ""product_visibility"": ""high"",
+    ""product_size_ratio"": 0.7
+  },
+  ""visual_elements"": {
+    ""has_product"": true,
+    ""has_human"": true,
+    ""human_count"": 1,
+    ""human_gender_approx"": ""male"",
+    ""face_visible"": false,
+    ""eye_contact"": false,
+    ""props_present"": [],
+    ""background_type"": ""lifestyle"",
+    ""background_clarity"": ""medium""
+  },
+  ""text_elements"": {
+    ""has_text"": true,
+    ""text_blocks"": 4,
+    ""text_density"": ""medium"",
+    ""main_headline_present"": true,
+    ""cta_present"": true,
+    ""visible_words"": [
+      ""The Most Supportive & Breathable Boxer Briefs Ever"",
+      ""Modal pouch for breathable support"",
+      ""Internal Sling For Comfort, Lift, And Separation"",
+      ""SELLING FAST""
+    ]
+  },
+  ""style"": {
+    ""creative_style"": ""studio"",
+    ""ugc_signals"": false,
+    ""studio_signals"": true,
+    ""color_palette"": [""maroon"", ""white"", ""tan"", ""black""],
+    ""dominant_color"": ""maroon"",
+    ""contrast_level"": ""high"",
+    ""brightness_level"": ""high""
+  },
+  ""structural_cues"": {
+    ""hierarchy_clarity"": ""clear"",
+    ""visual_noise_level"": ""low"",
+    ""whitespace_ratio"": 0.1,
+    ""symmetry_level"": ""medium""
+  },
+  ""emotion_tone"": {
+    ""emotion_visible"": ""none"",
+    ""energy_level"": ""low"",
+    ""mood"": ""informative""
+  },
+  ""raw_description"": ""The image shows a close-up view of a person wearing maroon boxer briefs, with the product prominently centered. Labels point to specific supportive features of the boxer briefs. The background includes part of a leather surface, suggesting a casual setting. Text annotations describe the product’s support features, and a 'Selling Fast' badge is also present.""
+}",1,1,0,0,0.7,2,2,4,1,1,2,0,0.1,1,0,0,0,1,0,0,0,1,1,0,1,0,0,0,
+2025-11-21T23:51:14.728Z,track_1763769074728_1,current-user,Undewear,static,awareness,en,positive,"{
+  ""layout"": {
+    ""primary_focus"": ""person"",
+    ""framing"": ""medium"",
+    ""composition_type"": ""centered"",
+    ""product_visibility"": ""high"",
+    ""product_size_ratio"": 0.5
+  },
+  ""visual_elements"": {
+    ""has_product"": true,
+    ""has_human"": true,
+    ""human_count"": 1,
+    ""human_gender_approx"": ""female"",
+    ""face_visible"": false,
+    ""eye_contact"": false,
+    ""props_present"": [""underwear""],
+    ""background_type"": ""lifestyle"",
+    ""background_clarity"": ""medium""
+  },
+  ""text_elements"": {
+    ""has_text"": true,
+    ""text_blocks"": 2,
+    ""text_density"": ""medium"",
+    ""main_headline_present"": true,
+    ""cta_present"": false,
+    ""visible_words"": [
+      ""UNE MAILLE unique"",
+      ""TRICOTÉE SUR-MESURE"",
+      ""POUR VOTRE CONFORT"",
+      ""COTON BIO"",
+      ""ET TENCEL"",
+      ""PRODUCTION RESPONSABLE"",
+      ""DOUX ET RESPECTUEUX"",
+      ""POUR VOTRE PEAU""
+    ]
+  },
+  ""style"": {
+    ""creative_style"": ""studio"",
+    ""ugc_signals"": false,
+    ""studio_signals"": true,
+    ""color_palette"": [""beige"", ""navy"", ""white""],
+    ""dominant_color"": ""beige"",
+    ""contrast_level"": ""medium"",
+    ""brightness_level"": ""high""
+  },
+  ""structural_cues"": {
+    ""hierarchy_clarity"": ""clear"",
+    ""visual_noise_level"": ""low"",
+    ""whitespace_ratio"": 0.2,
+    ""symmetry_level"": ""medium""
+  },
+  ""emotion_tone"": {
+    ""emotion_visible"": ""none"",
+    ""energy_level"": ""low"",
+    ""mood"": ""calm""
+  },
+  ""raw_description"": ""The image features a medium-framed view of a woman wearing a matching dark navy bra and high-waisted underwear set. The person's face is not fully visible, focusing the attention on the product. There are several text blocks in white, with a headline on the chest area and three benefit points on the bottom garment. The background includes a lightly patterned wall, suggesting a lifestyle indoor setting.""
+}",0,0,1,0,0.5,1,2,2,1,1,2,0,0.2,0,0,0,0,1,0,0,0,1,1,0,1,0,0,0,
+2025-11-21T23:51:13.623Z,track_1763769073623_0,current-user,Undewear,static,awareness,en,positive,"{
+  ""layout"": {
+    ""primary_focus"": ""person"",
+    ""framing"": ""close-up"",
+    ""composition_type"": ""centered"",
+    ""product_visibility"": ""high"",
+    ""product_size_ratio"": 0.4
+  },
+  ""visual_elements"": {
+    ""has_product"": true,
+    ""has_human"": true,
+    ""human_count"": 1,
+    ""human_gender_approx"": ""female"",
+    ""face_visible"": false,
+    ""eye_contact"": false,
+    ""props_present"": [""underwear""],
+    ""background_type"": ""studio"",
+    ""background_clarity"": ""clean""
+  },
+  ""text_elements"": {
+    ""has_text"": true,
+    ""text_blocks"": 4,
+    ""text_density"": ""medium"",
+    ""main_headline_present"": true,
+    ""cta_present"": false,
+    ""visible_words"": [
+      ""LEAKPROOF ULTRATHIN NO-SHOW BIKINI"",
+      ""Forget panty liners."",
+      ""Light flow days love these."",
+      ""Sleek. Weightless. Comfy."",
+      ""knix""
+    ]
+  },
+  ""style"": {
+    ""creative_style"": ""studio"",
+    ""ugc_signals"": false,
+    ""studio_signals"": true,
+    ""color_palette"": [""pink"", ""tan"", ""white"", ""grey""],
+    ""dominant_color"": ""pink"",
+    ""contrast_level"": ""medium"",
+    ""brightness_level"": ""high""
+  },
+  ""structural_cues"": {
+    ""hierarchy_clarity"": ""clear"",
+    ""visual_noise_level"": ""low"",
+    ""whitespace_ratio"": 0.2,
+    ""symmetry_level"": ""high""
+  },
+  ""emotion_tone"": {
+    ""emotion_visible"": ""none"",
+    ""energy_level"": ""low"",
+    ""mood"": ""calm clean""
+  },
+  ""raw_description"": ""The image features a close-up, centered shot of a woman from the chest down, wearing light pink underwear. Text is displayed prominently in the upper and middle sections with product claims and descriptions. The background is clean and neutral, suggesting a studio setting. The brand name 'knix' is visible near the bottom of the image.""
+}",0,1,0,0,0.4,1,2,4,1,1,2,0,0.2,0,0,0,0,1,0,0,0,1,1,0,0,0,0,0,
+2025-11-21T23:51:14.728Z,track_1763769074728_1,current-user,Undewear,static,awareness,en,positive,"{
+  ""layout"": {
+    ""primary_focus"": ""person"",
+    ""framing"": ""medium"",
+    ""composition_type"": ""centered"",
+    ""product_visibility"": ""high"",
+    ""product_size_ratio"": 0.5
+  },
+  ""visual_elements"": {
+    ""has_product"": true,
+    ""has_human"": true,
+    ""human_count"": 1,
+    ""human_gender_approx"": ""female"",
+    ""face_visible"": false,
+    ""eye_contact"": false,
+    ""props_present"": [],
+    ""background_type"": ""lifestyle"",
+    ""background_clarity"": ""medium""
+  },
+  ""text_elements"": {
+    ""has_text"": true,
+    ""text_blocks"": 2,
+    ""text_density"": ""medium"",
+    ""main_headline_present"": true,
+    ""cta_present"": false,
+    ""visible_words"": [
+      ""UNE MAILLE unique"",
+      ""TRICOTÉE SUR-MESURE POUR VOTRE CONFORT"",
+      ""COTON BIO ET TENCEL"",
+      ""PRODUCTION RESPONSABLE"",
+      ""DOUX ET RESPECTUEUX POUR VOTRE PEAU""
+    ]
+  },
+  ""style"": {
+    ""creative_style"": ""studio"",
+    ""ugc_signals"": false,
+    ""studio_signals"": true,
+    ""color_palette"": [""beige"", ""black"", ""cream""],
+    ""dominant_color"": ""beige"",
+    ""contrast_level"": ""medium"",
+    ""brightness_level"": ""high""
+  },
+  ""structural_cues"": {
+    ""hierarchy_clarity"": ""clear"",
+    ""visual_noise_level"": ""low"",
+    ""whitespace_ratio"": 0.2,
+    ""symmetry_level"": ""medium""
+  },
+  ""emotion_tone"": {
+    ""emotion_visible"": ""none"",
+    ""energy_level"": ""low"",
+    ""mood"": ""calm""
+  },
+  ""raw_description"": ""The image shows a woman wearing a dark matching bra and underwear set, centered in the frame and cropped at the shoulders and thighs. The background is a softly patterned interior wall. Overlaid in the center and lower part of the image is French text describing product attributes, aligned with the clothing. The visual style is bright, with a clean studio setup.""
+}",0,0,1,0,0.5,1,2,2,1,1,2,0,0.2,0,0,0,0,1,0,0,0,1,1,0,1,0,0,0,
+2025-11-21T23:51:13.623Z,track_1763769073623_0,current-user,Undewear,static,awareness,en,positive,"{
+  ""layout"": {
+    ""primary_focus"": ""person"",
+    ""framing"": ""close-up"",
+    ""composition_type"": ""centered"",
+    ""product_visibility"": ""high"",
+    ""product_size_ratio"": 0.4
+  },
+  ""visual_elements"": {
+    ""has_product"": true,
+    ""has_human"": true,
+    ""human_count"": 1,
+    ""human_gender_approx"": ""female"",
+    ""face_visible"": false,
+    ""eye_contact"": false,
+    ""props_present"": [""underwear""],
+    ""background_type"": ""studio"",
+    ""background_clarity"": ""clean""
+  },
+  ""text_elements"": {
+    ""has_text"": true,
+    ""text_blocks"": 4,
+    ""text_density"": ""medium"",
+    ""main_headline_present"": true,
+    ""cta_present"": false,
+    ""visible_words"": [
+      ""LEAKPROOF ULTRATHIN NO-SHOW BIKINI"",
+      ""Forget panty liners."",
+      ""Light flow days love these."",
+      ""Sleek. Weightless. Comfy."",
+      ""knix""
+    ]
+  },
+  ""style"": {
+    ""creative_style"": ""studio"",
+    ""ugc_signals"": false,
+    ""studio_signals"": true,
+    ""color_palette"": [""pink"", ""tan"", ""white"", ""grey""],
+    ""dominant_color"": ""pink"",
+    ""contrast_level"": ""medium"",
+    ""brightness_level"": ""medium""
+  },
+  ""structural_cues"": {
+    ""hierarchy_clarity"": ""clear"",
+    ""visual_noise_level"": ""low"",
+    ""whitespace_ratio"": 0.2,
+    ""symmetry_level"": ""high""
+  },
+  ""emotion_tone"": {
+    ""emotion_visible"": ""none"",
+    ""energy_level"": ""low"",
+    ""mood"": ""calm neutral""
+  },
+  ""raw_description"": ""The ad creative features a close-up image of a woman wearing light pink underwear, with text overlaid on the torso area. The background is a clean, neutral-toned studio setting. The main text is centered near the top and middle, and the brand name 'knix' is placed near the bottom center. The product is clearly visible, taking up a significant portion of the image.""
+}",0,1,0,0,0.4,1,1,4,1,1,2,0,0.2,0,0,0,0,1,0,0,0,1,1,0,0,0,0,0,
+2025-11-22T22:12:53.352Z,track_1763849573352_0,current-user,underwear,static,awareness,en,positive,"{
+  ""layout"": {
+    ""primary_focus"": ""product"",
+    ""framing"": ""medium"",
+    ""composition_type"": ""grid"",
+    ""product_visibility"": ""high"",
+    ""product_size_ratio"": 0.4
+  },
+  ""visual_elements"": {
+    ""has_product"": true,
+    ""has_human"": false,
+    ""human_count"": 0,
+    ""human_gender_approx"": ""none"",
+    ""face_visible"": false,
+    ""eye_contact"": false,
+    ""props_present"": [],
+    ""background_type"": ""solid"",
+    ""background_clarity"": ""clean""
+  },
+  ""text_elements"": {
+    ""has_text"": true,
+    ""text_blocks"": 6,
+    ""text_density"": ""medium"",
+    ""main_headline_present"": true,
+    ""cta_present"": false,
+    ""visible_words"": [""BIKINI"", ""GUIDE"", ""1. Triangle"", ""2. Bustier"", ""3. Bandeau"", ""4. Bügel"", ""5. Push-Up""]
+  },
+  ""style"": {
+    ""creative_style"": ""infographic"",
+    ""ugc_signals"": false,
+    ""studio_signals"": false,
+    ""color_palette"": [""purple"", ""white"", ""black"", ""blue"", ""pink"", ""red""],
+    ""dominant_color"": ""purple"",
+    ""contrast_level"": ""high"",
+    ""brightness_level"": ""medium""
+  },
+  ""structural_cues"": {
+    ""hierarchy_clarity"": ""clear"",
+    ""visual_noise_level"": ""low"",
+    ""whitespace_ratio"": 0.3,
+    ""symmetry_level"": ""high""
+  },
+  ""emotion_tone"": {
+    ""emotion_visible"": ""none"",
+    ""energy_level"": ""low"",
+    ""mood"": ""informative""
+  },
+  ""raw_description"": ""The image consists of a purple background with six main textual sections explaining different bikini top styles. Each section pairs a short textual explanation with a corresponding visual of the bikini top. The title 'BIKINI GUIDE' is prominent in large white text on the left. The layout is grid-based with a clean and structured appearance.""
+}",1,0,1,0,0.4,2,1,6,1,1,2,0,0.3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,
+2025-11-22T22:16:00.537Z,track_1763849760537_0,current-user,underwear,static,awareness,en,positive,"{
+  ""layout"": {
+    ""primary_focus"": ""product"",
+    ""framing"": ""close-up"",
+    ""composition_type"": ""split-screen"",
+    ""product_visibility"": ""high"",
+    ""product_size_ratio"": 0.6
+  },
+  ""visual_elements"": {
+    ""has_product"": true,
+    ""has_human"": true,
+    ""human_count"": 1,
+    ""human_gender_approx"": ""male"",
+    ""face_visible"": false,
+    ""eye_contact"": false,
+    ""props_present"": [""basketball""],
+    ""background_type"": ""solid"",
+    ""background_clarity"": ""clean""
+  },
+  ""text_elements"": {
+    ""has_text"": true,
+    ""text_blocks"": 2,
+    ""text_density"": ""medium"",
+    ""main_headline_present"": true,
+    ""cta_present"": false,
+    ""visible_words"": [
+      ""AARON GORDON, PRO BASKETBALL PLAYER"",
+      ""MULTI SPORT MESH"",
+      ""BALLPARK POUCH PRO"",
+      ""STOP DROP TECHNOLOGY"",
+      ""LIGHTWEIGHT, BREATHABLE MESH"",
+      ""NO-RIDEUP LEG"",
+      ""FLY OPENING"",
+      ""SAXX"",
+      ""XX""
+    ]
+  },
+  ""style"": {
+    ""creative_style"": ""studio"",
+    ""ugc_signals"": false,
+    ""studio_signals"": true,
+    ""color_palette"": [""red"", ""black"", ""white"", ""skin""],
+    ""dominant_color"": ""red"",
+    ""contrast_level"": ""high"",
+    ""brightness_level"": ""medium""
+  },
+  ""structural_cues"": {
+    ""hierarchy_clarity"": ""clear"",
+    ""visual_noise_level"": ""low"",
+    ""whitespace_ratio"": 0.2,
+    ""symmetry_level"": ""medium""
+  },
+  ""emotion_tone"": {
+    ""emotion_visible"": ""none"",
+    ""energy_level"": ""medium"",
+    ""mood"": ""athletic focus""
+  },
+  ""raw_description"": ""The image is a split-screen ad showing a man from the waist down wearing red SAXX underwear on the top half alongside a basketball, and a product-only display of the same underwear with feature text on the bottom half. Text descriptions outline product features like breathability and comfort. The background is solid and clean, and the underwear product is prominent and brightly colored.""
+}",1,1,0,0,0.6,2,1,2,1,1,2,0,0.2,0,0,0,0,1,0,0,0,1,1,0,0,0,0,0,
+2025-11-22T22:16:01.311Z,track_1763849761311_1,current-user,underwear,static,awareness,en,positive,"{
+  ""layout"": {
+    ""primary_focus"": ""product"",
+    ""framing"": ""close-up"",
+    ""composition_type"": ""centered"",
+    ""product_visibility"": ""high"",
+    ""product_size_ratio"": 0.5
+  },
+  ""visual_elements"": {
+    ""has_product"": true,
+    ""has_human"": false,
+    ""human_count"": 0,
+    ""human_gender_approx"": ""none"",
+    ""face_visible"": false,
+    ""eye_contact"": false,
+    ""props_present"": [""underwear""],
+    ""background_type"": ""solid"",
+    ""background_clarity"": ""clean""
+  },
+  ""text_elements"": {
+    ""has_text"": true,
+    ""text_blocks"": 5,
+    ""text_density"": ""medium"",
+    ""main_headline_present"": true,
+    ""cta_present"": false,
+    ""visible_words"": [
+      ""SAXX"",
+      ""PRO"",
+      ""UNDERWEAR"",
+      ""MULTI-SPORT MESH"",
+      ""BALLPARK POUCH PRO"",
+      ""STOP DROP TECHNOLOGY"",
+      ""LIGHTWEIGHT, BREATHABLE MESH"",
+      ""NO-RIDEUP LEG"",
+      ""FLY OPENING""
+    ]
+  },
+  ""style"": {
+    ""creative_style"": ""product_photo"",
+    ""ugc_signals"": false,
+    ""studio_signals"": true,
+    ""color_palette"": [""black"", ""grey"", ""red"", ""white""],
+    ""dominant_color"": ""black"",
+    ""contrast_level"": ""high"",
+    ""brightness_level"": ""medium""
+  },
+  ""structural_cues"": {
+    ""hierarchy_clarity"": ""clear"",
+    ""visual_noise_level"": ""low"",
+    ""whitespace_ratio"": 0.2,
+    ""symmetry_level"": ""high""
+  },
+  ""emotion_tone"": {
+    ""emotion_visible"": ""none"",
+    ""energy_level"": ""low"",
+    ""mood"": ""neutral""
+  },
+  ""raw_description"": ""The image features a close-up, centered view of a pair of camouflage-patterned SAXX PRO underwear. The background is solid black with clear branding and product information text arranged around the product. Text elements detail the product features including 'Ballpark Pouch Pro' and 'Lightweight, breathable mesh'.""
+}",1,1,0,0,0.5,2,1,5,1,1,2,0,0.2,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,
+2025-11-22T22:16:02.269Z,track_1763849762269_2,current-user,underwear,static,awareness,en,positive,"{
+  ""layout"": {
+    ""primary_focus"": ""person"",
+    ""framing"": ""medium"",
+    ""composition_type"": ""centered"",
+    ""product_visibility"": ""medium"",
+    ""product_size_ratio"": 0.4
+  },
+  ""visual_elements"": {
+    ""has_product"": true,
+    ""has_human"": true,
+    ""human_count"": 1,
+    ""human_gender_approx"": ""female"",
+    ""face_visible"": true,
+    ""eye_contact"": true,
+    ""props_present"": [""underwear"", ""high heels"", ""exercise ball""],
+    ""background_type"": ""studio"",
+    ""background_clarity"": ""clean""
+  },
+  ""text_elements"": {
+    ""has_text"": true,
+    ""text_blocks"": 4,
+    ""text_density"": ""medium"",
+    ""main_headline_present"": true,
+    ""cta_present"": false,
+    ""visible_words"": [
+      ""Absorbs up to 9 super tampons"",
+      ""Over 15 million sold"",
+      ""Wear, wash, repeat"",
+      ""KRISTEN BELL LOVES LEAKPROOF."",
+      ""10 years of trusting Knix underwear for her cycle."",
+      ""knix""
+    ]
+  },
+  ""style"": {
+    ""creative_style"": ""studio"",
+    ""ugc_signals"": false,
+    ""studio_signals"": true,
+    ""color_palette"": [""navy"", ""black"", ""white"", ""beige""],
+    ""dominant_color"": ""navy"",
+    ""contrast_level"": ""high"",
+    ""brightness_level"": ""medium""
+  },
+  ""structural_cues"": {
+    ""hierarchy_clarity"": ""clear"",
+    ""visual_noise_level"": ""low"",
+    ""whitespace_ratio"": 0.3,
+    ""symmetry_level"": ""medium""
+  },
+  ""emotion_tone"": {
+    ""emotion_visible"": ""smiling"",
+    ""energy_level"": ""high"",
+    ""mood"": ""confident, empowering""
+  },
+  ""raw_description"": ""A woman is sitting on a white exercise ball with one leg raised high, wearing a dark outfit including tights and heels. Text on the right highlights features of the product, and branding is included on a navy background at the bottom. The composition is studio-lit with a clean, minimalist background.""
+}",0,0,1,0,0.4,2,1,4,1,1,2,0,0.3,0,0,0,0,1,0,0,0,1,1,1,0,1,0,0,
+2025-11-22T22:16:03.753Z,track_1763849763753_3,current-user,underwear,static,awareness,en,positive,"{
+  ""layout"": {
+    ""primary_focus"": ""person"",
+    ""framing"": ""medium"",
+    ""composition_type"": ""centered"",
+    ""product_visibility"": ""high"",
+    ""product_size_ratio"": 0.5
+  },
+  ""visual_elements"": {
+    ""has_product"": true,
+    ""has_human"": true,
+    ""human_count"": 1,
+    ""human_gender_approx"": ""female"",
+    ""face_visible"": false,
+    ""eye_contact"": false,
+    ""props_present"": [""underwear""],
+    ""background_type"": ""lifestyle"",
+    ""background_clarity"": ""medium""
+  },
+  ""text_elements"": {
+    ""has_text"": true,
+    ""text_blocks"": 2,
+    ""text_density"": ""medium"",
+    ""main_headline_present"": true,
+    ""cta_present"": false,
+    ""visible_words"": [
+      ""UNE MAILLE unique"",
+      ""TRICOTÉE SUR-MESURE"",
+      ""POUR VOTRE CONFORT"",
+      ""COTON BIO"",
+      ""ET TENCEL"",
+      ""PRODUCTION RESPONSABLE"",
+      ""DOUX ET RESPECTUEUX"",
+      ""POUR VOTRE PEAU""
+    ]
+  },
+  ""style"": {
+    ""creative_style"": ""studio"",
+    ""ugc_signals"": false,
+    ""studio_signals"": true,
+    ""color_palette"": [""beige"", ""black"", ""blue""],
+    ""dominant_color"": ""black"",
+    ""contrast_level"": ""medium"",
+    ""brightness_level"": ""high""
+  },
+  ""structural_cues"": {
+    ""hierarchy_clarity"": ""clear"",
+    ""visual_noise_level"": ""low"",
+    ""whitespace_ratio"": 0.2,
+    ""symmetry_level"": ""medium""
+  },
+  ""emotion_tone"": {
+    ""emotion_visible"": ""none"",
+    ""energy_level"": ""low"",
+    ""mood"": ""calm""
+  },
+  ""raw_description"": ""The image shows a woman wearing a dark-colored matching underwear set. Her head is cropped out, focusing attention on the clothing. There is white text placed over her torso and bottom, communicating product benefits. The background is softly patterned, and lighting is bright and warm.""
+}",0,0,1,0,0.5,1,2,2,1,1,2,0,0.2,0,0,0,0,1,0,0,0,1,1,0,1,0,0,0,
+2025-11-22T22:16:05.835Z,track_1763849765835_4,current-user,underwear,static,awareness,en,positive,"{
+  ""layout"": {
+    ""primary_focus"": ""product"",
+    ""framing"": ""close-up"",
+    ""composition_type"": ""collage"",
+    ""product_visibility"": ""high"",
+    ""product_size_ratio"": 0.6
+  },
+  ""visual_elements"": {
+    ""has_product"": true,
+    ""has_human"": true,
+    ""human_count"": 3,
+    ""human_gender_approx"": ""female"",
+    ""face_visible"": false,
+    ""eye_contact"": false,
+    ""props_present"": [""underwear""],
+    ""background_type"": ""lifestyle"",
+    ""background_clarity"": ""medium""
+  },
+  ""text_elements"": {
+    ""has_text"": true,
+    ""text_blocks"": 5,
+    ""text_density"": ""medium"",
+    ""main_headline_present"": true,
+    ""cta_present"": false,
+    ""visible_words"": [""TROIS"", ""COUPES"", ""UN MÊME"", ""CONFORT"", ""CLASSIQUE"", ""TAILLE HAUTE"", ""ÉCHANCRÉE"", ""PÉTRONE""]
+  },
+  ""style"": {
+    ""creative_style"": ""product_photo"",
+    ""ugc_signals"": false,
+    ""studio_signals"": true,
+    ""color_palette"": [""green"", ""beige"", ""brown"", ""black"", ""white""],
+    ""dominant_color"": ""green"",
+    ""contrast_level"": ""medium"",
+    ""brightness_level"": ""medium""
+  },
+  ""structural_cues"": {
+    ""hierarchy_clarity"": ""clear"",
+    ""visual_noise_level"": ""low"",
+    ""whitespace_ratio"": 0.2,
+    ""symmetry_level"": ""medium""
+  },
+  ""emotion_tone"": {
+    ""emotion_visible"": ""none"",
+    ""energy_level"": ""low"",
+    ""mood"": ""calm comfort""
+  },
+  ""raw_description"": ""The image consists of a close-up view of a person wearing green underwear with a hand resting on their hip, set against a lifestyle background with greenery and flowers. Centered text over the image reads 'TROIS COUPES UN MÊME CONFORT'. Below this are three smaller product images showing different underwear styles labeled 'CLASSIQUE', 'TAILLE HAUTE', and 'ÉCHANCRÉE', each worn by a model. The brand name 'PÉTRONE' appears at the bottom center.""
+}",1,1,0,0,0.6,1,1,5,1,1,2,0,0.2,0,0,0,0,0,0,0,0,1,1,0,1,0,0,0,
+2025-11-22T22:16:01.311Z,track_1763849761311_1,current-user,underwear,static,awareness,en,positive,"{
+  ""layout"": {
+    ""primary_focus"": ""product"",
+    ""framing"": ""close-up"",
+    ""composition_type"": ""centered"",
+    ""product_visibility"": ""high"",
+    ""product_size_ratio"": 0.5
+  },
+  ""visual_elements"": {
+    ""has_product"": true,
+    ""has_human"": false,
+    ""human_count"": 0,
+    ""human_gender_approx"": ""none"",
+    ""face_visible"": false,
+    ""eye_contact"": false,
+    ""props_present"": [""underwear""],
+    ""background_type"": ""solid"",
+    ""background_clarity"": ""clean""
+  },
+  ""text_elements"": {
+    ""has_text"": true,
+    ""text_blocks"": 4,
+    ""text_density"": ""medium"",
+    ""main_headline_present"": true,
+    ""cta_present"": false,
+    ""visible_words"": [
+      ""SAXX"",
+      ""PRO"",
+      ""MULTI-SPORT MESH"",
+      ""BALLPARK POUCH PRO"",
+      ""STOP DROP TECHNOLOGY"",
+      ""LIGHTWEIGHT, BREATHABLE MESH"",
+      ""NO-RIDEUP LEG"",
+      ""FLY OPENING"",
+      ""UNDERWEAR""
+    ]
+  },
+  ""style"": {
+    ""creative_style"": ""product_photo"",
+    ""ugc_signals"": false,
+    ""studio_signals"": true,
+    ""color_palette"": [""black"", ""grey"", ""red"", ""white""],
+    ""dominant_color"": ""black"",
+    ""contrast_level"": ""high"",
+    ""brightness_level"": ""medium""
+  },
+  ""structural_cues"": {
+    ""hierarchy_clarity"": ""clear"",
+    ""visual_noise_level"": ""low"",
+    ""whitespace_ratio"": 0.3,
+    ""symmetry_level"": ""high""
+  },
+  ""emotion_tone"": {
+    ""emotion_visible"": ""none"",
+    ""energy_level"": ""low"",
+    ""mood"": ""technical""
+  },
+  ""raw_description"": ""The image features a close-up shot of a pair of SAXX PRO camouflage-patterned boxer briefs centered against a solid black background. The product is displayed clearly with high visibility and is accompanied by multiple blocks of white text highlighting its features. The layout includes brand and product name text around the borders and detailed feature descriptions alongside the product.""
+}",1,1,0,0,0.5,2,1,4,1,1,2,0,0.3,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,
+2025-11-22T22:16:02.269Z,track_1763849762269_2,current-user,underwear,static,awareness,en,positive,"{
+  ""layout"": {
+    ""primary_focus"": ""person"",
+    ""framing"": ""medium"",
+    ""composition_type"": ""centered"",
+    ""product_visibility"": ""medium"",
+    ""product_size_ratio"": 0.4
+  },
+  ""visual_elements"": {
+    ""has_product"": true,
+    ""has_human"": true,
+    ""human_count"": 1,
+    ""human_gender_approx"": ""female"",
+    ""face_visible"": true,
+    ""eye_contact"": true,
+    ""props_present"": [""underwear"", ""ball""],
+    ""background_type"": ""studio"",
+    ""background_clarity"": ""clean""
+  },
+  ""text_elements"": {
+    ""has_text"": true,
+    ""text_blocks"": 4,
+    ""text_density"": ""medium"",
+    ""main_headline_present"": true,
+    ""cta_present"": false,
+    ""visible_words"": [
+      ""Absorbs up to 9 super tampons"",
+      ""Over 15 million sold"",
+      ""Wear, wash, repeat"",
+      ""KRISTEN BELL LOVES LEAKPROOF."",
+      ""10 years of trusting Knix underwear for her cycle."",
+      ""knix""
+    ]
+  },
+  ""style"": {
+    ""creative_style"": ""studio"",
+    ""ugc_signals"": false,
+    ""studio_signals"": true,
+    ""color_palette"": [""navy"", ""white"", ""black"", ""beige""],
+    ""dominant_color"": ""navy"",
+    ""contrast_level"": ""medium"",
+    ""brightness_level"": ""medium""
+  },
+  ""structural_cues"": {
+    ""hierarchy_clarity"": ""clear"",
+    ""visual_noise_level"": ""low"",
+    ""whitespace_ratio"": 0.3,
+    ""symmetry_level"": ""medium""
+  },
+  ""emotion_tone"": {
+    ""emotion_visible"": ""smiling"",
+    ""energy_level"": ""medium"",
+    ""mood"": ""confident calm""
+  },
+  ""raw_description"": ""The image features a woman sitting on a large white ball, wearing dark-colored tights and a top, with one leg raised. The background is a clean studio setup with soft lighting. Text is displayed to the right of the person and in a lower panel, highlighting product features and brand messaging. The overall layout centers the person, with supportive product-related icons and text.""
+}",0,0,1,0,0.4,1,1,4,1,1,2,0,0.3,0,0,0,0,1,0,0,0,1,1,1,0,1,0,0,
+2025-11-22T22:29:13.807Z,track_1763850553807_0,current-user,underwear,static,conversion,en,positive,"{
+  ""layout"": {
+    ""primary_focus"": ""person"",
+    ""framing"": ""medium"",
+    ""composition_type"": ""centered"",
+    ""product_visibility"": ""medium"",
+    ""product_size_ratio"": 0.4
+  },
+  ""visual_elements"": {
+    ""has_product"": true,
+    ""has_human"": true,
+    ""human_count"": 1,
+    ""human_gender_approx"": ""male"",
+    ""face_visible"": true,
+    ""eye_contact"": false,
+    ""props_present"": [""underwear""],
+    ""background_type"": ""solid"",
+    ""background_clarity"": ""clean""
+  },
+  ""text_elements"": {
+    ""has_text"": true,
+    ""text_blocks"": 4,
+    ""text_density"": ""medium"",
+    ""main_headline_present"": true,
+    ""cta_present"": true,
+    ""visible_words"": [""PERSONNALISEZ VOTRE PACK"", ""% COMPOSEZ VOTRE LOT"", ""-10 €"", ""-30 €"", ""dès 2 articles"", ""dès 4 articles"", ""JE COMPOSE MON PACK""]
+  },
+  ""style"": {
+    ""creative_style"": ""studio"",
+    ""ugc_signals"": false,
+    ""studio_signals"": true,
+    ""color_palette"": [""beige"", ""green"", ""orange"", ""white"", ""black""],
+    ""dominant_color"": ""beige"",
+    ""contrast_level"": ""medium"",
+    ""brightness_level"": ""medium""
+  },
+  ""structural_cues"": {
+    ""hierarchy_clarity"": ""clear"",
+    ""visual_noise_level"": ""low"",
+    ""whitespace_ratio"": 0.3,
+    ""symmetry_level"": ""high""
+  },
+  ""emotion_tone"": {
+    ""emotion_visible"": ""smiling"",
+    ""energy_level"": ""medium"",
+    ""mood"": ""uplifting""
+  },
+  ""raw_description"": ""The image shows a smiling man from the waist up, centered against a beige background. He is wearing dark green underwear, which is the highlighted product. A central overlay presents a promotional offer with text about discounts and various underwear styles displayed. At the bottom, a large CTA button says 'JE COMPOSE MON PACK' on a fabric background.""
+}",0,0,1,0,0.4,1,1,4,1,1,2,0,0.3,1,1,0,0,1,0,0,0,1,1,1,0,1,0,0,
+2025-11-22T22:29:15.452Z,track_1763850555452_1,current-user,underwear,static,conversion,en,positive,"{
+  ""layout"": {
+    ""primary_focus"": ""person"",
+    ""framing"": ""close-up"",
+    ""composition_type"": ""centered"",
+    ""product_visibility"": ""high"",
+    ""product_size_ratio"": 0.6
+  },
+  ""visual_elements"": {
+    ""has_product"": true,
+    ""has_human"": true,
+    ""human_count"": 1,
+    ""human_gender_approx"": ""female"",
+    ""face_visible"": false,
+    ""eye_contact"": false,
+    ""props_present"": [""underwear""],
+    ""background_type"": ""outdoor"",
+    ""background_clarity"": ""medium""
+  },
+  ""text_elements"": {
+    ""has_text"": true,
+    ""text_blocks"": 3,
+    ""text_density"": ""medium"",
+    ""main_headline_present"": true,
+    ""cta_present"": true,
+    ""visible_words"": [""CUUP"", ""UP TO"", ""70%"", ""OFF""]
+  },
+  ""style"": {
+    ""creative_style"": ""studio"",
+    ""ugc_signals"": false,
+    ""studio_signals"": true,
+    ""color_palette"": [""tan"", ""light blue"", ""white""],
+    ""dominant_color"": ""light blue"",
+    ""contrast_level"": ""medium"",
+    ""brightness_level"": ""high""
+  },
+  ""structural_cues"": {
+    ""hierarchy_clarity"": ""clear"",
+    ""visual_noise_level"": ""low"",
+    ""whitespace_ratio"": 0.2,
+    ""symmetry_level"": ""high""
+  },
+  ""emotion_tone"": {
+    ""emotion_visible"": ""none"",
+    ""energy_level"": ""medium"",
+    ""mood"": ""warm promotional""
+  },
+  ""raw_description"": ""The image displays a close-up of a female torso wearing a matching light blue bra and high-waisted underwear. Promotional text including 'CUUP' and 'UP TO 70% OFF' is overlaid on the image in white, positioned on the top and bottom of the frame. The background appears to be an outdoor setting with a warm sunset tone.""
+}",0,1,0,0,0.6,1,2,3,1,1,2,0,0.2,1,1,0,0,1,0,0,0,1,1,0,1,0,0,0,
+2025-11-22T22:29:16.365Z,track_1763850556365_2,current-user,underwear,static,conversion,en,positive,"{
+  ""layout"": {
+    ""primary_focus"": ""product"",
+    ""framing"": ""medium"",
+    ""composition_type"": ""centered"",
+    ""product_visibility"": ""high"",
+    ""product_size_ratio"": 0.4
+  },
+  ""visual_elements"": {
+    ""has_product"": true,
+    ""has_human"": false,
+    ""human_count"": 0,
+    ""human_gender_approx"": ""none"",
+    ""face_visible"": false,
+    ""eye_contact"": false,
+    ""props_present"": [""underwear""],
+    ""background_type"": ""solid"",
+    ""background_clarity"": ""clean""
+  },
+  ""text_elements"": {
+    ""has_text"": true,
+    ""text_blocks"": 3,
+    ""text_density"": ""medium"",
+    ""main_headline_present"": true,
+    ""cta_present"": true,
+    ""visible_words"": [""Premium comfort,"", ""minus the premium price."", ""Save when you buy 3 or more"", ""PROUDLY CANADIAN""]
+  },
+  ""style"": {
+    ""creative_style"": ""product_photo"",
+    ""ugc_signals"": false,
+    ""studio_signals"": true,
+    ""color_palette"": [""grey"", ""black"", ""navy blue"", ""white"", ""red""],
+    ""dominant_color"": ""grey"",
+    ""contrast_level"": ""medium"",
+    ""brightness_level"": ""high""
+  },
+  ""structural_cues"": {
+    ""hierarchy_clarity"": ""clear"",
+    ""visual_noise_level"": ""low"",
+    ""whitespace_ratio"": 0.4,
+    ""symmetry_level"": ""medium""
+  },
+  ""emotion_tone"": {
+    ""emotion_visible"": ""none"",
+    ""energy_level"": ""low"",
+    ""mood"": ""neutral""
+  },
+  ""raw_description"": ""The image features five pairs of SAXX brand men's underwear in different colors laid out in the lower half of the image. Above the products is black and red promotional text on a clean, light-colored background. A circular red badge on the right side reads 'PROUDLY CANADIAN.'""
+}",1,0,1,0,0.4,1,2,3,1,1,2,0,0.4,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,
+2025-11-22T22:29:17.795Z,track_1763850557795_3,current-user,underwear,static,conversion,en,positive,"{
+  ""layout"": {
+    ""primary_focus"": ""product"",
+    ""framing"": ""medium"",
+    ""composition_type"": ""centered"",
+    ""product_visibility"": ""high"",
+    ""product_size_ratio"": 0.5
+  },
+  ""visual_elements"": {
+    ""has_product"": true,
+    ""has_human"": true,
+    ""human_count"": 2,
+    ""human_gender_approx"": ""male"",
+    ""face_visible"": false,
+    ""eye_contact"": false,
+    ""props_present"": [""underwear""],
+    ""background_type"": ""studio"",
+    ""background_clarity"": ""clean""
+  },
+  ""text_elements"": {
+    ""has_text"": true,
+    ""text_blocks"": 5,
+    ""text_density"": ""medium"",
+    ""main_headline_present"": true,
+    ""cta_present"": true,
+    ""visible_words"": [""PERSONNALISEZ VOTRE PACK"", ""COMPOSEZ VOTRE LOT"", ""-10 €"", ""dès 2 articles"", ""-30 €"", ""dès 4 articles"", ""JE COMPOSE MON PACK""]
+  },
+  ""style"": {
+    ""creative_style"": ""studio"",
+    ""ugc_signals"": false,
+    ""studio_signals"": true,
+    ""color_palette"": [""maroon"", ""beige"", ""white"", ""orange""],
+    ""dominant_color"": ""maroon"",
+    ""contrast_level"": ""medium"",
+    ""brightness_level"": ""medium""
+  },
+  ""structural_cues"": {
+    ""hierarchy_clarity"": ""clear"",
+    ""visual_noise_level"": ""low"",
+    ""whitespace_ratio"": 0.2,
+    ""symmetry_level"": ""medium""
+  },
+  ""emotion_tone"": {
+    ""emotion_visible"": ""none"",
+    ""energy_level"": ""low"",
+    ""mood"": ""neutral""
+  },
+  ""raw_description"": ""The image features two male figures wearing maroon boxer underwear on each side of a central offer panel. The center of the image displays a promotional message with discount offers and a grid of various boxer styles and colors. A bright call-to-action button is located at the bottom. The background is a gradient beige studio-style setup, and the lower section has a fabric texture inset in maroon.""
+}",1,0,1,0,0.5,1,1,5,1,1,2,0,0.2,1,0,0,0,1,0,0,0,1,1,0,0,0,0,0,
+2025-11-22T22:29:18.819Z,track_1763850558819_4,current-user,underwear,static,conversion,en,positive,"{
+  ""layout"": {
+    ""primary_focus"": ""product"",
+    ""framing"": ""close-up"",
+    ""composition_type"": ""centered"",
+    ""product_visibility"": ""high"",
+    ""product_size_ratio"": 0.6
+  },
+  ""visual_elements"": {
+    ""has_product"": true,
+    ""has_human"": false,
+    ""human_count"": 0,
+    ""human_gender_approx"": ""none"",
+    ""face_visible"": false,
+    ""eye_contact"": false,
+    ""props_present"": [""underwear""],
+    ""background_type"": ""solid"",
+    ""background_clarity"": ""clean""
+  },
+  ""text_elements"": {
+    ""has_text"": true,
+    ""text_blocks"": 3,
+    ""text_density"": ""medium"",
+    ""main_headline_present"": true,
+    ""cta_present"": false,
+    ""visible_words"": [""Save up to"", ""30%"", ""on life-changing multi-packs."", ""SAXX""]
+  },
+  ""style"": {
+    ""creative_style"": ""product_photo"",
+    ""ugc_signals"": false,
+    ""studio_signals"": true,
+    ""color_palette"": [""tan"", ""grey"", ""black"", ""navy""],
+    ""dominant_color"": ""tan"",
+    ""contrast_level"": ""medium"",
+    ""brightness_level"": ""high""
+  },
+  ""structural_cues"": {
+    ""hierarchy_clarity"": ""clear"",
+    ""visual_noise_level"": ""low"",
+    ""whitespace_ratio"": 0.3,
+    ""symmetry_level"": ""high""
+  },
+  ""emotion_tone"": {
+    ""emotion_visible"": ""none"",
+    ""energy_level"": ""low"",
+    ""mood"": ""neutral""
+  },
+  ""raw_description"": ""The image shows three pairs of SAXX brand underwear in various colors neatly laid out on a solid tan background. Promotional text is displayed above the products, emphasizing a 30% discount. The layout is clean and symmetrical with a strong product focus.""
+}",1,1,0,0,0.6,1,2,3,1,1,2,0,0.3,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,
+2025-11-22T22:36:27.327Z,track_1763850987327_0,current-user,underwear,static,conversion,en,negative,"{
+  ""layout"": {
+    ""primary_focus"": ""mixed"",
+    ""framing"": ""medium"",
+    ""composition_type"": ""right-weighted"",
+    ""product_visibility"": ""high"",
+    ""product_size_ratio"": 0.5
+  },
+  ""visual_elements"": {
+    ""has_product"": true,
+    ""has_human"": true,
+    ""human_count"": 2,
+    ""human_gender_approx"": ""mixed"",
+    ""face_visible"": true,
+    ""eye_contact"": false,
+    ""props_present"": [""underwear""],
+    ""background_type"": ""studio"",
+    ""background_clarity"": ""clean""
+  },
+  ""text_elements"": {
+    ""has_text"": true,
+    ""text_blocks"": 3,
+    ""text_density"": ""medium"",
+    ""main_headline_present"": true,
+    ""cta_present"": false,
+    ""visible_words"": [""DIM"", ""PARIS"", ""Soldes"", ""Jusqu'à"", ""-60%""]
+  },
+  ""style"": {
+    ""creative_style"": ""studio"",
+    ""ugc_signals"": false,
+    ""studio_signals"": true,
+    ""color_palette"": [""beige"", ""brown"", ""gray"", ""white""],
+    ""dominant_color"": ""beige"",
+    ""contrast_level"": ""medium"",
+    ""brightness_level"": ""high""
+  },
+  ""structural_cues"": {
+    ""hierarchy_clarity"": ""clear"",
+    ""visual_noise_level"": ""low"",
+    ""whitespace_ratio"": 0.2,
+    ""symmetry_level"": ""medium""
+  },
+  ""emotion_tone"": {
+    ""emotion_visible"": ""smiling"",
+    ""energy_level"": ""medium"",
+    ""mood"": ""relaxed, intimate""
+  },
+  ""raw_description"": ""The image features a man and woman lying on the floor wearing branded underwear. Both are smiling and interacting with each other, facing each other. The background is studio-style, with clean beige and white tones. Promotional text for a sale appears in the upper right corner, mentioning up to 60% discount and brand name 'DIM'.""
+}",0,0,1,0,0.5,1,2,3,1,1,2,0,0.2,0,1,0,0,1,0,0,0,1,1,1,0,1,0,0,
+2025-11-22T22:36:27.327Z,track_1763850987327_0,current-user,underwear,static,conversion,en,negative,"{
+  ""layout"": {
+    ""primary_focus"": ""mixed"",
+    ""framing"": ""medium"",
+    ""composition_type"": ""right-weighted"",
+    ""product_visibility"": ""high"",
+    ""product_size_ratio"": 0.5
+  },
+  ""visual_elements"": {
+    ""has_product"": true,
+    ""has_human"": true,
+    ""human_count"": 2,
+    ""human_gender_approx"": ""mixed"",
+    ""face_visible"": true,
+    ""eye_contact"": false,
+    ""props_present"": [""underwear""],
+    ""background_type"": ""studio"",
+    ""background_clarity"": ""clean""
+  },
+  ""text_elements"": {
+    ""has_text"": true,
+    ""text_blocks"": 3,
+    ""text_density"": ""medium"",
+    ""main_headline_present"": true,
+    ""cta_present"": false,
+    ""visible_words"": [""DIM"", ""PARIS"", ""Soldes"", ""Jusqu'à"", ""-60%""]
+  },
+  ""style"": {
+    ""creative_style"": ""studio"",
+    ""ugc_signals"": false,
+    ""studio_signals"": true,
+    ""color_palette"": [""beige"", ""brown"", ""gray"", ""white""],
+    ""dominant_color"": ""beige"",
+    ""contrast_level"": ""medium"",
+    ""brightness_level"": ""high""
+  },
+  ""structural_cues"": {
+    ""hierarchy_clarity"": ""clear"",
+    ""visual_noise_level"": ""low"",
+    ""whitespace_ratio"": 0.2,
+    ""symmetry_level"": ""medium""
+  },
+  ""emotion_tone"": {
+    ""emotion_visible"": ""smiling"",
+    ""energy_level"": ""medium"",
+    ""mood"": ""relaxed, intimate""
+  },
+  ""raw_description"": ""The image features a man and woman lying on the floor wearing branded underwear. Both are smiling and interacting with each other, facing each other. The background is studio-style, with clean beige and white tones. Promotional text for a sale appears in the upper right corner, mentioning up to 60% discount and brand name 'DIM'.""
+}",0,0,1,0,0.5,1,2,3,1,1,2,0,0.2,0,1,0,0,1,0,0,0,1,1,1,0,1,0,0,
+2025-11-22T22:36:27.327Z,track_1763850987327_0,current-user,underwear,static,conversion,en,negative,"{
+  ""layout"": {
+    ""primary_focus"": ""mixed"",
+    ""framing"": ""medium"",
+    ""composition_type"": ""right-weighted"",
+    ""product_visibility"": ""high"",
+    ""product_size_ratio"": 0.5
+  },
+  ""visual_elements"": {
+    ""has_product"": true,
+    ""has_human"": true,
+    ""human_count"": 2,
+    ""human_gender_approx"": ""mixed"",
+    ""face_visible"": true,
+    ""eye_contact"": false,
+    ""props_present"": [""underwear""],
+    ""background_type"": ""studio"",
+    ""background_clarity"": ""clean""
+  },
+  ""text_elements"": {
+    ""has_text"": true,
+    ""text_blocks"": 3,
+    ""text_density"": ""medium"",
+    ""main_headline_present"": true,
+    ""cta_present"": false,
+    ""visible_words"": [""DIM"", ""PARIS"", ""Soldes"", ""Jusqu'à"", ""-60%""]
+  },
+  ""style"": {
+    ""creative_style"": ""studio"",
+    ""ugc_signals"": false,
+    ""studio_signals"": true,
+    ""color_palette"": [""beige"", ""brown"", ""gray"", ""white""],
+    ""dominant_color"": ""beige"",
+    ""contrast_level"": ""medium"",
+    ""brightness_level"": ""high""
+  },
+  ""structural_cues"": {
+    ""hierarchy_clarity"": ""clear"",
+    ""visual_noise_level"": ""low"",
+    ""whitespace_ratio"": 0.2,
+    ""symmetry_level"": ""medium""
+  },
+  ""emotion_tone"": {
+    ""emotion_visible"": ""smiling"",
+    ""energy_level"": ""medium"",
+    ""mood"": ""relaxed, intimate""
+  },
+  ""raw_description"": ""The image features a man and woman lying on the floor wearing branded underwear. Both are smiling and interacting with each other, facing each other. The background is studio-style, with clean beige and white tones. Promotional text for a sale appears in the upper right corner, mentioning up to 60% discount and brand name 'DIM'.""
+}",0,0,1,0,0.5,1,2,3,1,1,2,0,0.2,0,1,0,0,1,0,0,0,1,1,1,0,1,0,0,
+2025-11-22T22:29:19.891Z,track_1763850559891_5,current-user,underwear,static,conversion,en,positive,"{
+  ""layout"": {
+    ""primary_focus"": ""product"",
+    ""framing"": ""medium"",
+    ""composition_type"": ""grid"",
+    ""product_visibility"": ""high"",
+    ""product_size_ratio"": 0.5
+  },
+  ""visual_elements"": {
+    ""has_product"": true,
+    ""has_human"": false,
+    ""human_count"": 0,
+    ""human_gender_approx"": ""none"",
+    ""face_visible"": false,
+    ""eye_contact"": false,
+    ""props_present"": [""underwear""],
+    ""background_type"": ""solid"",
+    ""background_clarity"": ""clean""
+  },
+  ""text_elements"": {
+    ""has_text"": true,
+    ""text_blocks"": 3,
+    ""text_density"": ""medium"",
+    ""main_headline_present"": true,
+    ""cta_present"": true,
+    ""visible_words"": [""SAXX"", ""Build your own bundle"", ""Save up to 20%""]
+  },
+  ""style"": {
+    ""creative_style"": ""product_photo"",
+    ""ugc_signals"": false,
+    ""studio_signals"": true,
+    ""color_palette"": [""green"", ""blue"", ""red"", ""black""],
+    ""dominant_color"": ""green"",
+    ""contrast_level"": ""high"",
+    ""brightness_level"": ""high""
+  },
+  ""structural_cues"": {
+    ""hierarchy_clarity"": ""clear"",
+    ""visual_noise_level"": ""low"",
+    ""whitespace_ratio"": 0.3,
+    ""symmetry_level"": ""high""
+  },
+  ""emotion_tone"": {
+    ""emotion_visible"": ""none"",
+    ""energy_level"": ""medium"",
+    ""mood"": ""bold colorful""
+  },
+  ""raw_description"": ""The image features a grid layout of six colorful men's underwear products on a solid green background. The top portion has the black and white SAXX logo, a headline reading 'Build your own bundle', and a green CTA bubble with 'Save up to 20%'. Each pair of underwear is presented without a model, with varied and vibrant prints. The design is clean and symmetrical.""
+}",1,0,1,0,0.5,2,2,3,1,1,2,0,0.3,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,
+2025-11-22T22:36:27.327Z,track_1763850987327_0,current-user,underwear,static,conversion,en,negative,"{
+  ""layout"": {
+    ""primary_focus"": ""mixed"",
+    ""framing"": ""medium"",
+    ""composition_type"": ""right-weighted"",
+    ""product_visibility"": ""high"",
+    ""product_size_ratio"": 0.5
+  },
+  ""visual_elements"": {
+    ""has_product"": true,
+    ""has_human"": true,
+    ""human_count"": 2,
+    ""human_gender_approx"": ""mixed"",
+    ""face_visible"": true,
+    ""eye_contact"": false,
+    ""props_present"": [""underwear""],
+    ""background_type"": ""studio"",
+    ""background_clarity"": ""clean""
+  },
+  ""text_elements"": {
+    ""has_text"": true,
+    ""text_blocks"": 3,
+    ""text_density"": ""medium"",
+    ""main_headline_present"": true,
+    ""cta_present"": false,
+    ""visible_words"": [""DIM"", ""PARIS"", ""Soldes"", ""Jusqu'à"", ""-60%""]
+  },
+  ""style"": {
+    ""creative_style"": ""studio"",
+    ""ugc_signals"": false,
+    ""studio_signals"": true,
+    ""color_palette"": [""beige"", ""brown"", ""gray"", ""white""],
+    ""dominant_color"": ""beige"",
+    ""contrast_level"": ""medium"",
+    ""brightness_level"": ""high""
+  },
+  ""structural_cues"": {
+    ""hierarchy_clarity"": ""clear"",
+    ""visual_noise_level"": ""low"",
+    ""whitespace_ratio"": 0.2,
+    ""symmetry_level"": ""medium""
+  },
+  ""emotion_tone"": {
+    ""emotion_visible"": ""smiling"",
+    ""energy_level"": ""medium"",
+    ""mood"": ""relaxed, intimate""
+  },
+  ""raw_description"": ""The image features a man and woman lying on the floor wearing branded underwear. Both are smiling and interacting with each other, facing each other. The background is studio-style, with clean beige and white tones. Promotional text for a sale appears in the upper right corner, mentioning up to 60% discount and brand name 'DIM'.""
+}",0,0,1,0,0.5,1,2,3,1,1,2,0,0.2,0,1,0,0,1,0,0,0,1,1,1,0,1,0,0,
+2025-11-22T22:36:29.127Z,track_1763850989127_1,current-user,underwear,static,conversion,en,negative,"{
+  ""layout"": {
+    ""primary_focus"": ""person"",
+    ""framing"": ""medium"",
+    ""composition_type"": ""centered"",
+    ""product_visibility"": ""medium"",
+    ""product_size_ratio"": 0.4
+  },
+  ""visual_elements"": {
+    ""has_product"": true,
+    ""has_human"": true,
+    ""human_count"": 1,
+    ""human_gender_approx"": ""female"",
+    ""face_visible"": true,
+    ""eye_contact"": true,
+    ""props_present"": [""sofa"", ""blanket""],
+    ""background_type"": ""lifestyle"",
+    ""background_clarity"": ""clean""
+  },
+  ""text_elements"": {
+    ""has_text"": true,
+    ""text_blocks"": 3,
+    ""text_density"": ""medium"",
+    ""main_headline_present"": true,
+    ""cta_present"": false,
+    ""visible_words"": [""DIM"", ""Soldes"", ""Jusqu'à"", ""-50%""]
+  },
+  ""style"": {
+    ""creative_style"": ""studio"",
+    ""ugc_signals"": false,
+    ""studio_signals"": true,
+    ""color_palette"": [""white"", ""black"", ""green"", ""beige""],
+    ""dominant_color"": ""green"",
+    ""contrast_level"": ""medium"",
+    ""brightness_level"": ""high""
+  },
+  ""structural_cues"": {
+    ""hierarchy_clarity"": ""clear"",
+    ""visual_noise_level"": ""low"",
+    ""whitespace_ratio"": 0.2,
+    ""symmetry_level"": ""medium""
+  },
+  ""emotion_tone"": {
+    ""emotion_visible"": ""smiling"",
+    ""energy_level"": ""medium"",
+    ""mood"": ""relaxed""
+  },
+  ""raw_description"": ""A woman is lying on a green sofa with a white blanket, wearing a black bodysuit and beige socks. She is centrally framed and smiling at the camera. White promotional text is displayed at the top center of the image. The bright setting includes a window view with trees and a white wall interior.""
+}",0,0,1,0,0.4,1,2,3,1,1,2,0,0.2,0,1,0,0,1,0,0,0,1,1,1,0,1,0,0,
+2025-11-22T22:36:30.251Z,track_1763850990251_2,current-user,underwear,static,conversion,en,negative,"{
+  ""layout"": {
+    ""primary_focus"": ""person"",
+    ""framing"": ""medium"",
+    ""composition_type"": ""centered"",
+    ""product_visibility"": ""high"",
+    ""product_size_ratio"": 0.5
+  },
+  ""visual_elements"": {
+    ""has_product"": true,
+    ""has_human"": true,
+    ""human_count"": 2,
+    ""human_gender_approx"": ""mixed"",
+    ""face_visible"": true,
+    ""eye_contact"": false,
+    ""props_present"": [""underwear""],
+    ""background_type"": ""solid"",
+    ""background_clarity"": ""clean""
+  },
+  ""text_elements"": {
+    ""has_text"": true,
+    ""text_blocks"": 3,
+    ""text_density"": ""medium"",
+    ""main_headline_present"": true,
+    ""cta_present"": false,
+    ""visible_words"": [""DIM"", ""Soldes"", ""Jusqu'à"", ""-50%""]
+  },
+  ""style"": {
+    ""creative_style"": ""studio"",
+    ""ugc_signals"": false,
+    ""studio_signals"": true,
+    ""color_palette"": [""beige"", ""black"", ""white""],
+    ""dominant_color"": ""beige"",
+    ""contrast_level"": ""medium"",
+    ""brightness_level"": ""high""
+  },
+  ""structural_cues"": {
+    ""hierarchy_clarity"": ""clear"",
+    ""visual_noise_level"": ""low"",
+    ""whitespace_ratio"": 0.4,
+    ""symmetry_level"": ""medium""
+  },
+  ""emotion_tone"": {
+    ""emotion_visible"": ""neutral"",
+    ""energy_level"": ""low"",
+    ""mood"": ""calm intimate""
+  },
+  ""raw_description"": ""The image shows a man and a woman standing closely, both wearing matching black polka-dotted underwear from the DIM brand. The background is a solid beige color with minimal distractions. Promotional text for a sale up to 50% is placed above the models in clear, legible font.""
+}",0,0,1,0,0.5,1,2,3,1,1,2,0,0.4,0,1,0,0,1,0,0,0,1,1,1,0,0,0,0,
+2025-11-22T22:36:31.516Z,track_1763850991516_3,current-user,underwear,static,conversion,en,negative,"{
+  ""layout"": {
+    ""primary_focus"": ""person"",
+    ""framing"": ""medium"",
+    ""composition_type"": ""centered"",
+    ""product_visibility"": ""medium"",
+    ""product_size_ratio"": 0.4
+  },
+  ""visual_elements"": {
+    ""has_product"": true,
+    ""has_human"": true,
+    ""human_count"": 2,
+    ""human_gender_approx"": ""mixed"",
+    ""face_visible"": true,
+    ""eye_contact"": false,
+    ""props_present"": [""mirror""],
+    ""background_type"": ""lifestyle"",
+    ""background_clarity"": ""medium""
+  },
+  ""text_elements"": {
+    ""has_text"": true,
+    ""text_blocks"": 3,
+    ""text_density"": ""medium"",
+    ""main_headline_present"": true,
+    ""cta_present"": false,
+    ""visible_words"": [""DIM"", ""Ventes Privées"", ""-40%"", ""dès 2 articles""]
+  },
+  ""style"": {
+    ""creative_style"": ""studio"",
+    ""ugc_signals"": false,
+    ""studio_signals"": true,
+    ""color_palette"": [""white"", ""black"", ""gray"", ""pink""],
+    ""dominant_color"": ""white"",
+    ""contrast_level"": ""medium"",
+    ""brightness_level"": ""high""
+  },
+  ""structural_cues"": {
+    ""hierarchy_clarity"": ""clear"",
+    ""visual_noise_level"": ""low"",
+    ""whitespace_ratio"": 0.2,
+    ""symmetry_level"": ""medium""
+  },
+  ""emotion_tone"": {
+    ""emotion_visible"": ""smiling"",
+    ""energy_level"": ""high"",
+    ""mood"": ""playful""
+  },
+  ""raw_description"": ""The image features a man and woman smiling and embracing in a bright indoor setting. They are wearing comfortable, minimal clothing suggesting loungewear or underwear. Promotional text is overlaid in the bottom half, highlighting a 40% discount. The background includes a round mirror and a white-painted room corner, giving a casual, home-like feel.""
+}",0,0,1,0,0.4,1,2,3,1,1,2,0,0.2,0,1,0,0,1,0,0,0,1,1,1,1,1,0,0,
+2025-11-22T22:36:32.820Z,track_1763850992820_4,current-user,underwear,static,conversion,en,negative,"{
+  ""layout"": {
+    ""primary_focus"": ""mixed"",
+    ""framing"": ""medium"",
+    ""composition_type"": ""centered"",
+    ""product_visibility"": ""high"",
+    ""product_size_ratio"": 0.5
+  },
+  ""visual_elements"": {
+    ""has_product"": true,
+    ""has_human"": true,
+    ""human_count"": 3,
+    ""human_gender_approx"": ""mixed"",
+    ""face_visible"": true,
+    ""eye_contact"": true,
+    ""props_present"": [""underwear"", ""sweater"", ""framed object""],
+    ""background_type"": ""studio"",
+    ""background_clarity"": ""clean""
+  },
+  ""text_elements"": {
+    ""has_text"": true,
+    ""text_blocks"": 4,
+    ""text_density"": ""medium"",
+    ""main_headline_present"": true,
+    ""cta_present"": true,
+    ""visible_words"": [""DIM"", ""DERNIÈRE DÉMARQUE"", ""Soldes"", ""Jusqu'à"", ""-70%"", ""LIVRAISON OFFERTE DÈS 30€""]
+  },
+  ""style"": {
+    ""creative_style"": ""studio"",
+    ""ugc_signals"": false,
+    ""studio_signals"": true,
+    ""color_palette"": [""white"", ""brown"", ""black"", ""beige""],
+    ""dominant_color"": ""white"",
+    ""contrast_level"": ""high"",
+    ""brightness_level"": ""high""
+  },
+  ""structural_cues"": {
+    ""hierarchy_clarity"": ""clear"",
+    ""visual_noise_level"": ""low"",
+    ""whitespace_ratio"": 0.3,
+    ""symmetry_level"": ""high""
+  },
+  ""emotion_tone"": {
+    ""emotion_visible"": ""smiling"",
+    ""energy_level"": ""high"",
+    ""mood"": ""happy, casual""
+  },
+  ""raw_description"": ""The image features three people—two adults and one child—posing in underwear in front of a framed decorative element in a bright studio setting. There is prominent branding and promotional sale information in the top section of the image. The individuals are smiling and making eye contact, creating a friendly and inviting atmosphere.""
+}",0,0,1,0,0.5,2,2,4,1,1,2,0,0.3,1,1,0,0,1,0,0,0,1,1,1,0,1,0,0,
+2025-11-22T22:36:33.772Z,track_1763850993772_5,current-user,underwear,static,conversion,en,negative,"{
+  ""layout"": {
+    ""primary_focus"": ""mixed"",
+    ""framing"": ""medium"",
+    ""composition_type"": ""centered"",
+    ""product_visibility"": ""high"",
+    ""product_size_ratio"": 0.5
+  },
+  ""visual_elements"": {
+    ""has_product"": true,
+    ""has_human"": true,
+    ""human_count"": 1,
+    ""human_gender_approx"": ""female"",
+    ""face_visible"": true,
+    ""eye_contact"": true,
+    ""props_present"": [""underwear""],
+    ""background_type"": ""solid"",
+    ""background_clarity"": ""clean""
+  },
+  ""text_elements"": {
+    ""has_text"": true,
+    ""text_blocks"": 4,
+    ""text_density"": ""medium"",
+    ""main_headline_present"": true,
+    ""cta_present"": true,
+    ""visible_words"": [""DIM PARIS"", ""DERNIÈRE DÉMARQUE"", ""Soldes"", ""Jusqu'à"", ""-70%"", ""LIVRAISON OFFERTE DÈS 30€""]
+  },
+  ""style"": {
+    ""creative_style"": ""studio"",
+    ""ugc_signals"": false,
+    ""studio_signals"": true,
+    ""color_palette"": [""beige"", ""blue"", ""brown""],
+    ""dominant_color"": ""beige"",
+    ""contrast_level"": ""medium"",
+    ""brightness_level"": ""high""
+  },
+  ""structural_cues"": {
+    ""hierarchy_clarity"": ""clear"",
+    ""visual_noise_level"": ""low"",
+    ""whitespace_ratio"": 0.3,
+    ""symmetry_level"": ""high""
+  },
+  ""emotion_tone"": {
+    ""emotion_visible"": ""neutral"",
+    ""energy_level"": ""medium"",
+    ""mood"": ""calm confident""
+  },
+  ""raw_description"": ""The image features a woman wearing a blue bra and panties set standing against a beige solid background. Promotional text is centered above her head, including brand name, sale information, and a call-to-action for free delivery. The person is making eye contact and is centered in the frame, with clear visibility of the apparel being advertised.""
+}",0,0,1,0,0.5,1,2,4,1,1,2,0,0.3,1,1,0,0,1,0,0,0,1,1,1,0,0,0,0,
